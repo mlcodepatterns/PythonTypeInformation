@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "VECTOR_SOURCE", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "GEOJSON_SOURCE", "type": "str"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "MBTILES_SOURCE", "type": "str"}]

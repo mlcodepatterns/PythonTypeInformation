@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 15, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "pyntcloud", "type": "Any"}, {"lineNumber": 8, "col_offset": 25, "nodeName": "pyntcloud", "type": "Any"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "self", "type": "Sampling"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 14, "col_offset": 22, "nodeName": "FileFormatError", "type": "Type[skbio.io._exception.FileFormatError]"}, {"lineNumber": 19, "col_offset": 21, "nodeName": "FileFormatError", "type": "Type[skbio.io._exception.FileFormatError]"}]

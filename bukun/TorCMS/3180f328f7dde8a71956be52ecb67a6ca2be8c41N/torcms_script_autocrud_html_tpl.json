@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "TPL_ADD", "type": "str"}, {"lineNumber": 24, "col_offset": 0, "nodeName": "TPL_EDIT", "type": "str"}, {"lineNumber": 41, "col_offset": 0, "nodeName": "TPL_LIST", "type": "str"}, {"lineNumber": 65, "col_offset": 0, "nodeName": "TPL_LISTINFO", "type": "str"}, {"lineNumber": 67, "col_offset": 0, "nodeName": "TPL_VIEW", "type": "str"}]

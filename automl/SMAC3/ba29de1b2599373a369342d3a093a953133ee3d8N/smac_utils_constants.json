@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "MAXINT", "type": "int"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "MINIMAL_COST_FOR_LOG", "type": "float"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "MAX_CUTOFF", "type": "int"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "N_TREES", "type": "int"}]

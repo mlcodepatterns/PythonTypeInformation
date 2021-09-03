@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 0, "nodeName": "__all__", "type": "List[Any]"}, {"lineNumber": 18, "col_offset": 11, "nodeName": "Chainer", "type": "Any"}, {"lineNumber": 18, "col_offset": 20, "nodeName": "ChainerModel", "type": "Any"}, {"lineNumber": 18, "col_offset": 34, "nodeName": "ChainerPredictor", "type": "Any"}]

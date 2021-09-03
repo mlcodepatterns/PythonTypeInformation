@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "relu", "type": "Callable[[Any], Any]"}, {"lineNumber": 17, "col_offset": 11, "nodeName": "maximum", "type": "Any"}, {"lineNumber": 17, "col_offset": 31, "nodeName": "a", "type": "Any"}, {"lineNumber": 17, "col_offset": 11, "nodeName": "chainerx", "type": "module"}]

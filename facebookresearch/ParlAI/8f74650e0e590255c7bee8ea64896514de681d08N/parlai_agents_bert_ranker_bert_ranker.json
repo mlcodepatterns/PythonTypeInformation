@@ -1,0 +1,1 @@
+[{"lineNumber": 15, "col_offset": 22, "nodeName": "TorchAgent", "type": "Type[parlai.core.torch_agent.TorchAgent]"}, {"lineNumber": 18, "col_offset": 14, "nodeName": "RuntimeError", "type": "Type[RuntimeError]"}]

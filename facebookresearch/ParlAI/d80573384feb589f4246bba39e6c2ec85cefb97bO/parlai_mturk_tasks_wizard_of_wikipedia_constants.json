@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "MAX_DOC_LEN", "type": "int"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "WIZARD", "type": "str"}, {"lineNumber": 10, "col_offset": 0, "nodeName": "APPRENTICE", "type": "str"}, {"lineNumber": 42, "col_offset": 0, "nodeName": "WAITING_MSG", "type": "str"}]

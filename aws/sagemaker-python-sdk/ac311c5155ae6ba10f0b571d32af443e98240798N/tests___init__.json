@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 0, "nodeName": "system", "type": "Callable[[Union[bytes, str, _PathLike[Any]]], int]"}, {"lineNumber": 18, "col_offset": 0, "nodeName": "os", "type": "module"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 26, "nodeName": "NetFileGenerator", "type": "Type[flow.scenarios.netfile.gen.NetFileGenerator]"}, {"lineNumber": 63, "col_offset": 15, "nodeName": "rts", "type": "Dict[str, List[str]]"}]

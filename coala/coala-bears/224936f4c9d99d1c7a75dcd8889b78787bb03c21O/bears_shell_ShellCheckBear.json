@@ -1,0 +1,1 @@
+[{"lineNumber": 16, "col_offset": 4, "nodeName": "LANGUAGES", "type": "Tuple[str, str, str, str]"}, {"lineNumber": 19, "col_offset": 61, "nodeName": "str", "type": "Type[str]"}, {"lineNumber": 23, "col_offset": 35, "nodeName": "shell", "type": "str"}, {"lineNumber": 23, "col_offset": 42, "nodeName": "filename", "type": "Any"}]

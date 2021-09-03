@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 4, "nodeName": "VariationalStrategy", "type": "Any"}, {"lineNumber": 9, "col_offset": 4, "nodeName": "GridInducingPointStrategy", "type": "Any"}, {"lineNumber": 10, "col_offset": 4, "nodeName": "InducingPointStrategy", "type": "Any"}, {"lineNumber": 11, "col_offset": 4, "nodeName": "SumVariationalStrategy", "type": "Any"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "max_num_classes", "type": "int"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "min_score_threshold", "type": "float"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "line_thickness", "type": "int"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "planet_channel_order", "type": "List[int]"}]

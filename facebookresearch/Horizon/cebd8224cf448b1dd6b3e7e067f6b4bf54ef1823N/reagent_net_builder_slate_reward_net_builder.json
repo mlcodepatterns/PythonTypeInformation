@@ -1,0 +1,1 @@
+[{"lineNumber": 17, "col_offset": 9, "nodeName": "Module", "type": "Any"}, {"lineNumber": 21, "col_offset": 42, "nodeName": "bool", "type": "Type[bool]"}, {"lineNumber": 17, "col_offset": 9, "nodeName": "nn", "type": "Any"}, {"lineNumber": 17, "col_offset": 9, "nodeName": "torch", "type": "Any"}]

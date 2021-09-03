@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "get_version", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 11, "nodeName": "AICSIMAGE_VERSION", "type": "str"}]

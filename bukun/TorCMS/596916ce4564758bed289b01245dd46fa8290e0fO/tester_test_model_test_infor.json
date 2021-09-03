@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "Test", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 11, "nodeName": "MInfor", "type": "Type[torcms.model.info_model.MInfor]"}, {"lineNumber": 6, "col_offset": 11, "nodeName": "MInforBase", "type": "Type[torcms.model.info_model.MInforBase]"}]

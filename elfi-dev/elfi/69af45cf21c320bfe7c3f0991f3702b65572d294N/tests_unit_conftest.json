@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "run_around_tests", "type": "Callable[[], Any]"}, {"lineNumber": 13, "col_offset": 4, "nodeName": "new_inference_task", "type": "Callable[..., Any]"}, {"lineNumber": 13, "col_offset": 4, "nodeName": "elfi", "type": "module"}]

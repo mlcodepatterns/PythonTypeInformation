@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "pandas_installed", "type": "bool"}, {"lineNumber": 8, "col_offset": 4, "nodeName": "pandas_installed", "type": "bool"}, {"lineNumber": 9, "col_offset": 7, "nodeName": "ImportError", "type": "Type[ImportError]"}]

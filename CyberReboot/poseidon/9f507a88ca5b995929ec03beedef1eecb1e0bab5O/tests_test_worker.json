@@ -1,0 +1,1 @@
+[{"lineNumber": 13, "col_offset": 0, "nodeName": "test_setup_docker", "type": "Callable[[], Any]"}, {"lineNumber": 14, "col_offset": 4, "nodeName": "d", "type": "Any"}, {"lineNumber": 14, "col_offset": 8, "nodeName": "setup_docker", "type": "Callable[[], Any]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 22, "col_offset": 0, "nodeName": "getConverters", "type": "Callable[[], Any]"}, {"lineNumber": 17, "col_offset": 22, "nodeName": "JsonConverter", "type": "Any"}, {"lineNumber": 18, "col_offset": 38, "nodeName": "JsonWithIdentifierConverter", "type": "Any"}, {"lineNumber": 24, "col_offset": 11, "nodeName": "converters", "type": "Dict[str, Any]"}]

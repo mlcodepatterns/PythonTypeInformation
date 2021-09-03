@@ -1,0 +1,1 @@
+[{"lineNumber": 26, "col_offset": 3, "nodeName": "get", "type": "Callable"}, {"lineNumber": 26, "col_offset": 3, "nodeName": "environ", "type": "os._Environ[str]"}, {"lineNumber": 26, "col_offset": 3, "nodeName": "os", "type": "module"}]

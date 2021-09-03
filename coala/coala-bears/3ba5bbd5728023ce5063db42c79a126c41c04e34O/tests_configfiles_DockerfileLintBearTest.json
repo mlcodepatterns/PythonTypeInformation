@@ -1,0 +1,1 @@
+[{"lineNumber": 22, "col_offset": 25, "nodeName": "verify_local_bear", "type": "Any"}, {"lineNumber": 22, "col_offset": 43, "nodeName": "DockerfileLintBear", "type": "Any"}, {"lineNumber": 23, "col_offset": 56, "nodeName": "good_file", "type": "str"}, {"lineNumber": 24, "col_offset": 58, "nodeName": "bad_file", "type": "str"}]

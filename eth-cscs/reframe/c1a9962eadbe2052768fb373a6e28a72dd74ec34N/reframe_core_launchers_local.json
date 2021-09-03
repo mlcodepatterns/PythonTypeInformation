@@ -1,0 +1,1 @@
+[{"lineNumber": 11, "col_offset": 20, "nodeName": "JobLauncher", "type": "Type[reframe.core.launchers.JobLauncher]"}, {"lineNumber": 17, "col_offset": 8, "nodeName": "options", "type": "List[nothing]"}, {"lineNumber": 17, "col_offset": 8, "nodeName": "self", "type": "Any"}]

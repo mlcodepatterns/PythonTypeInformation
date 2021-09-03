@@ -1,0 +1,1 @@
+[{"lineNumber": 19, "col_offset": 0, "nodeName": "main", "type": "Callable[[], Any]"}, {"lineNumber": 20, "col_offset": 4, "nodeName": "handle", "type": "Callable[[Any], None]"}, {"lineNumber": 20, "col_offset": 11, "nodeName": "parse_args", "type": "Callable"}, {"lineNumber": 20, "col_offset": 11, "nodeName": "parser", "type": "argparse.ArgumentParser"}]

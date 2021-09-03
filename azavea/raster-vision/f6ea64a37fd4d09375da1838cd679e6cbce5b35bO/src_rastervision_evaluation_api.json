@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "EVALUATOR", "type": "str"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "OBJECT_DETECTION_EVALUATOR", "type": "str"}, {"lineNumber": 8, "col_offset": 0, "nodeName": "CHIP_CLASSIFICATION_EVALUATOR", "type": "str"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "SEMANTIC_SEGMENTATION_EVALUATOR", "type": "str"}]

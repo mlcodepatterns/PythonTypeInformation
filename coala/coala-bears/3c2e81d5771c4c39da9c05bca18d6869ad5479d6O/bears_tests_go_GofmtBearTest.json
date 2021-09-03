@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 12, "nodeName": "verify_local_bear", "type": "Callable[..., Any]"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "GofmtBear", "type": "Type[bears.go.GofmtBear.GofmtBear]"}]

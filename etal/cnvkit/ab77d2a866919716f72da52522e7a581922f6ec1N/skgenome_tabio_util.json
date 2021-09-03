@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "report_bad_line", "type": "Callable[[Any], Any]"}, {"lineNumber": 14, "col_offset": 11, "nodeName": "wrapper", "type": "Callable[..., Any]"}, {"lineNumber": 11, "col_offset": 19, "nodeName": "line_parser", "type": "Any"}, {"lineNumber": 11, "col_offset": 31, "nodeName": "line", "type": "Any"}]
