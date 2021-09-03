@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "DOMAIN", "type": "str"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "URL_LIST", "type": "Dict[str, str]"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "WSS_BWRURL", "type": "str"}]

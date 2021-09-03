@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 0, "nodeName": "create_transfer_client", "type": "Callable[[], Any]"}, {"lineNumber": 19, "col_offset": 11, "nodeName": "build", "type": "Any"}, {"lineNumber": 19, "col_offset": 11, "nodeName": "discovery", "type": "Any"}, {"lineNumber": 19, "col_offset": 11, "nodeName": "googleapiclient", "type": "Any"}]

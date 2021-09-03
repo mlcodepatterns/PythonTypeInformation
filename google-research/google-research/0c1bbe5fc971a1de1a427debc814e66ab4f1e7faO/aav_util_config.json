@@ -1,0 +1,1 @@
+[{"lineNumber": 34, "col_offset": 0, "nodeName": "RESIDUES", "type": "Tuple[str, ...]"}, {"lineNumber": 37, "col_offset": 0, "nodeName": "R1_TILE21_WT_SEQ", "type": "str"}, {"lineNumber": 34, "col_offset": 11, "nodeName": "tuple", "type": "Type[Tuple[Any, ...]]"}]

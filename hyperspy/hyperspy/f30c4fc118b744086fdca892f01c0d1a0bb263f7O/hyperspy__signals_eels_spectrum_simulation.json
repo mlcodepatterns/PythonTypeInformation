@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 29, "nodeName": "SpectrumSimulation", "type": "Type[hyperspy._signals.spectrum_simulation.SpectrumSimulation]"}, {"lineNumber": 24, "col_offset": 49, "nodeName": "EELSSpectrum", "type": "Type[hyperspy._signals.eels.EELSSpectrum]"}]

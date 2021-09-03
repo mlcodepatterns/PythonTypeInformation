@@ -1,0 +1,1 @@
+[{"lineNumber": 13, "col_offset": 23, "nodeName": "BaseScannerRules", "type": "Type[deploy.rule_generator.scanners.base_scanner_rules.BaseScannerRules]"}, {"lineNumber": 13, "col_offset": 23, "nodeName": "base_scanner_rules", "type": "module"}, {"lineNumber": 25, "col_offset": 29, "nodeName": "global_config", "type": "Any"}]

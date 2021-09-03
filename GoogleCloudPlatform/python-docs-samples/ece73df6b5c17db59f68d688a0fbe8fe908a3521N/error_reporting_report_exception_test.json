@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 0, "nodeName": "test_error_sends", "type": "Callable[[], Any]"}, {"lineNumber": 19, "col_offset": 4, "nodeName": "simulate_error", "type": "Any"}, {"lineNumber": 19, "col_offset": 4, "nodeName": "report_exception", "type": "Any"}]

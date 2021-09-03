@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 22, "nodeName": "Simulation", "type": "Type[hyperspy._signals.simulation.Simulation]"}, {"lineNumber": 24, "col_offset": 34, "nodeName": "Signal2D", "type": "Type[hyperspy._signals.signal2d.Signal2D]"}]

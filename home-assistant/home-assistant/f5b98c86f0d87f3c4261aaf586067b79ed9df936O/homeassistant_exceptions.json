@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 25, "nodeName": "Exception", "type": "Type[Exception]"}, {"lineNumber": 8, "col_offset": 31, "nodeName": "HomeAssistantError", "type": "Type[HomeAssistantError]"}, {"lineNumber": 13, "col_offset": 29, "nodeName": "HomeAssistantError", "type": "Type[HomeAssistantError]"}]

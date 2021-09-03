@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "get_mean", "type": "Callable[..., Any]"}, {"lineNumber": 2, "col_offset": 23, "nodeName": "norm_value", "type": "Any"}, {"lineNumber": 2, "col_offset": 46, "nodeName": "norm_value", "type": "Any"}, {"lineNumber": 2, "col_offset": 68, "nodeName": "norm_value", "type": "Any"}]

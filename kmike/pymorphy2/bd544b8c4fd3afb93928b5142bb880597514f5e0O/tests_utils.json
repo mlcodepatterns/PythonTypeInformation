@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "morph", "type": "pymorphy2.tagger.Morph"}, {"lineNumber": 5, "col_offset": 8, "nodeName": "load", "type": "Callable"}, {"lineNumber": 5, "col_offset": 8, "nodeName": "Morph", "type": "Type[pymorphy2.tagger.Morph]"}, {"lineNumber": 5, "col_offset": 8, "nodeName": "tagger", "type": "module"}]

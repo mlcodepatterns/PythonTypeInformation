@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "pytestmark", "type": "Any"}, {"lineNumber": 3, "col_offset": 13, "nodeName": "skip", "type": "Any"}, {"lineNumber": 3, "col_offset": 13, "nodeName": "mark", "type": "Any"}, {"lineNumber": 3, "col_offset": 13, "nodeName": "pytest", "type": "Any"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 4, "nodeName": "AsyncMock", "type": "Any"}, {"lineNumber": 7, "col_offset": 16, "nodeName": "CoroutineMock", "type": "Any"}, {"lineNumber": 4, "col_offset": 3, "nodeName": "version_info", "type": "Tuple[int, int, int, str, int]"}, {"lineNumber": 4, "col_offset": 3, "nodeName": "sys", "type": "module"}]

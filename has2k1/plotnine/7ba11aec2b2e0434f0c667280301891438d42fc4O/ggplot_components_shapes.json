@@ -1,0 +1,1 @@
+[{"lineNumber": 15, "col_offset": 0, "nodeName": "shape_gen", "type": "Callable[[], Any]"}, {"lineNumber": 17, "col_offset": 12, "nodeName": "shape", "type": "str"}, {"lineNumber": 17, "col_offset": 21, "nodeName": "SHAPES", "type": "List[str]"}, {"lineNumber": 18, "col_offset": 18, "nodeName": "shape", "type": "str"}]

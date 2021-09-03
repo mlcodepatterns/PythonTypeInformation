@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "mock_input", "type": "Callable[[Any], Any]"}, {"lineNumber": 8, "col_offset": 28, "nodeName": "TestCase", "type": "Type[unittest.case.TestCase]"}, {"lineNumber": 6, "col_offset": 11, "nodeName": "question", "type": "Any"}, {"lineNumber": 8, "col_offset": 28, "nodeName": "unittest", "type": "module"}]

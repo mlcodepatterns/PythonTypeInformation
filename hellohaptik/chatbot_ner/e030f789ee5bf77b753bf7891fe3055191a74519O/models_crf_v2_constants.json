@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "ENTITY_LIST", "type": "str"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "TEXT_LIST", "type": "str"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "EMBEDDINGS_PATH_VOCAB", "type": "str"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "EMBEDDINGS_PATH_VECTORS", "type": "str"}]

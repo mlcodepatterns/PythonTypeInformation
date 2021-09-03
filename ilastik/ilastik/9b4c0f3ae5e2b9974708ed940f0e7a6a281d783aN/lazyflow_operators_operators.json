@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 3, "nodeName": "__version__", "type": "Any"}, {"lineNumber": 24, "col_offset": 3, "nodeName": "psutil", "type": "Any"}, {"lineNumber": 25, "col_offset": 10, "nodeName": "RuntimeError", "type": "Type[RuntimeError]"}]

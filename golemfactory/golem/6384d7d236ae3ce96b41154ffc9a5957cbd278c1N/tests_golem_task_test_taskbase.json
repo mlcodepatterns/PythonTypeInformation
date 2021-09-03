@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "test_build_definition", "type": "Callable[[], None]"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "build_definition", "type": "Callable[..., None]"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "TaskBuilder", "type": "Type[golem.task.taskbase.TaskBuilder]"}]

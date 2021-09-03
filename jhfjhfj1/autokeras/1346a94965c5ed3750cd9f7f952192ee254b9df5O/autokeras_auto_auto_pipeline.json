@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 19, "nodeName": "AutoModel", "type": "Type[autokeras.auto.auto_model.AutoModel]"}, {"lineNumber": 4, "col_offset": 19, "nodeName": "auto_model", "type": "module"}, {"lineNumber": 31, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

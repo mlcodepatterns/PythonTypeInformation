@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 21, "nodeName": "Exception", "type": "Type[Exception]"}, {"lineNumber": 8, "col_offset": 21, "nodeName": "BadSearchSpace", "type": "Type[BadSearchSpace]"}, {"lineNumber": 12, "col_offset": 19, "nodeName": "ValueError", "type": "Type[ValueError]"}]

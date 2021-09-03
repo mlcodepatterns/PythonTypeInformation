@@ -1,0 +1,1 @@
+[{"lineNumber": 14, "col_offset": 0, "nodeName": "GlobalViewer", "type": "hypergan.pygame_viewer.PygameViewer"}, {"lineNumber": 14, "col_offset": 15, "nodeName": "PygameViewer", "type": "Type[hypergan.pygame_viewer.PygameViewer]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 3, "nodeName": "getboolean", "type": "Callable"}, {"lineNumber": 24, "col_offset": 3, "nodeName": "cfg", "type": "configparser.SafeConfigParser"}, {"lineNumber": 24, "col_offset": 3, "nodeName": "config", "type": "module"}, {"lineNumber": 24, "col_offset": 3, "nodeName": "ilastik", "type": "module"}]

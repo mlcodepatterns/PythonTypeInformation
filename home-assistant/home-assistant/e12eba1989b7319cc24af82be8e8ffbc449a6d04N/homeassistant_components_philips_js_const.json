@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "DOMAIN", "type": "str"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "CONF_SYSTEM", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "CONST_APP_ID", "type": "str"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "CONST_APP_NAME", "type": "str"}]

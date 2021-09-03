@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 19, "nodeName": "object", "type": "Type[object]"}, {"lineNumber": 6, "col_offset": 4, "nodeName": "SUM", "type": "int"}, {"lineNumber": 7, "col_offset": 4, "nodeName": "MEAN", "type": "int"}, {"lineNumber": 8, "col_offset": 4, "nodeName": "SQRTN", "type": "int"}]

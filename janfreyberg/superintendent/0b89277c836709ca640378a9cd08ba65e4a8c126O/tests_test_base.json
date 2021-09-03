@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "test_that_creating_a_base_widget_works", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "widget", "type": "superintendent.base.Labeller"}, {"lineNumber": 5, "col_offset": 13, "nodeName": "Labeller", "type": "Type[superintendent.base.Labeller]"}]
