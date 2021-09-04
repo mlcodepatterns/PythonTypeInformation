@@ -1,0 +1,1 @@
+[{"lineNumber": 11, "col_offset": 19, "nodeName": "HasSkipAndTransitiveGoalOptionsMixin", "type": "Any"}, {"lineNumber": 13, "col_offset": 2, "nodeName": "goal_options_registrar_cls", "type": "Any"}, {"lineNumber": 13, "col_offset": 31, "nodeName": "SkipAndTransitiveGoalOptionsRegistrar", "type": "Any"}]

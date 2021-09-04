@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "myfixture", "type": "Callable[[], Any]"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "V", "type": "Dict[str, int]"}, {"lineNumber": 9, "col_offset": 4, "nodeName": "V", "type": "Dict[str, int]"}]

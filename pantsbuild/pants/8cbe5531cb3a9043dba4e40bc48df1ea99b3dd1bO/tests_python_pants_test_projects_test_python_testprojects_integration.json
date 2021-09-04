@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 40, "nodeName": "ProjectsTestBase", "type": "Any"}, {"lineNumber": 9, "col_offset": 8, "nodeName": "assert_valid_projects", "type": "Any"}, {"lineNumber": 9, "col_offset": 8, "nodeName": "self", "type": "TestPythonTestprojectsIntegration"}]

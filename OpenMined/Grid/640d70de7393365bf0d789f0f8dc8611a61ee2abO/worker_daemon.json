@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "w", "type": "grid.server.grid.Server"}, {"lineNumber": 3, "col_offset": 4, "nodeName": "GridWorker", "type": "Type[grid.server.grid.Server]"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "poll", "type": "Callable[[], None]"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "w", "type": "grid.server.grid.Server"}]

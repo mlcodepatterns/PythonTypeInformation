@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "learn", "type": "Any"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "read_csv", "type": "Any"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "MindsDB", "type": "Type[mindsdb.libs.controllers.mindsdb_controller.MindsDBController]"}]

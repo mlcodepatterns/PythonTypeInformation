@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 27, "nodeName": "MatchingTensorLayer", "type": "Any"}, {"lineNumber": 6, "col_offset": 18, "nodeName": "SpatialGRU", "type": "Any"}]

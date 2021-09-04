@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "manual_seed", "type": "Callable[[Any], Any]"}, {"lineNumber": 4, "col_offset": 8, "nodeName": "manual_seed", "type": "Any"}, {"lineNumber": 4, "col_offset": 26, "nodeName": "seed", "type": "Any"}, {"lineNumber": 4, "col_offset": 8, "nodeName": "torch", "type": "Any"}]

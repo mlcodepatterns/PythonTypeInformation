@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 29, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "plan", "type": "Any"}, {"lineNumber": 8, "col_offset": 20, "nodeName": "plan", "type": "Any"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "self", "type": "AbstractPlanTranslator"}]

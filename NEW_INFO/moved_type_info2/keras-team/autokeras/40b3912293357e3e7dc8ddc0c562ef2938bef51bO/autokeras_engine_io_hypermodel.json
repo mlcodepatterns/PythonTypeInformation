@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 19, "nodeName": "object", "type": "Type[object]"}, {"lineNumber": 15, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}, {"lineNumber": 23, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

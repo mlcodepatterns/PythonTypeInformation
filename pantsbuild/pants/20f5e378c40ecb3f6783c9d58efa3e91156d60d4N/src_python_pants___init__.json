@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "declare_namespace", "type": "Any"}, {"lineNumber": 8, "col_offset": 46, "nodeName": "__name__", "type": "str"}, {"lineNumber": 8, "col_offset": 0, "nodeName": "__import__", "type": "Callable[..., module]"}]

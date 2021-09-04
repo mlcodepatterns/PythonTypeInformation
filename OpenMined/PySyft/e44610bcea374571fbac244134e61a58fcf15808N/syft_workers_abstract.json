@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 21, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 5, "col_offset": 26, "nodeName": "SyftSerializable", "type": "Type[syft.serde.syft_serializable.SyftSerializable]"}]

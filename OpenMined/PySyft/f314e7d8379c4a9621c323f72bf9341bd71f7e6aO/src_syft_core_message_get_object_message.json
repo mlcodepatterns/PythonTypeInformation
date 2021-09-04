@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 23, "nodeName": "SyftMessage", "type": "Any"}, {"lineNumber": 6, "col_offset": 8, "nodeName": "id", "type": "Any"}, {"lineNumber": 6, "col_offset": 18, "nodeName": "id", "type": "Any"}, {"lineNumber": 6, "col_offset": 8, "nodeName": "self", "type": "GetObjectMessage"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 41, "col_offset": 0, "nodeName": "update_setup", "type": "Callable[[Any], bool]"}, {"lineNumber": 41, "col_offset": 13, "nodeName": "settings", "type": "Dict[str, Union[List[str], bool, str, int]]"}, {"lineNumber": 43, "col_offset": 0, "nodeName": "test_full", "type": "Callable[..., List[Any]]"}]

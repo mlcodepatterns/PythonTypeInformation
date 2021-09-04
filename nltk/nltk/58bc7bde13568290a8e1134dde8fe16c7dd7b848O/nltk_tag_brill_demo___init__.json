@@ -1,0 +1,1 @@
+[{"lineNumber": 17, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 18, "col_offset": 4, "nodeName": "demo", "type": "Callable[[], None]"}, {"lineNumber": 18, "col_offset": 4, "nodeName": "postagging", "type": "module"}]

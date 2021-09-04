@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 4, "nodeName": "url", "type": "Any"}, {"lineNumber": 5, "col_offset": 13, "nodeName": "urls", "type": "Tuple[List[Any], str, Any]"}, {"lineNumber": 5, "col_offset": 13, "nodeName": "dashboard", "type": "jarbas.dashboard.sites.DashboardSite"}]

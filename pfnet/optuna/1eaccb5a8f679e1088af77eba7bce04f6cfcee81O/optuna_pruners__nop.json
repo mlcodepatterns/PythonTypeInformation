@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 16, "nodeName": "BasePruner", "type": "Type[optuna.pruners._base.BasePruner]"}, {"lineNumber": 46, "col_offset": 87, "nodeName": "bool", "type": "Type[bool]"}]

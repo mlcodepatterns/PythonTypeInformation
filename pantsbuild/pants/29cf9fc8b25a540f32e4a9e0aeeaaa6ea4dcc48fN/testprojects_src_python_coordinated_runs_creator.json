@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 31, "nodeName": "f", "type": "file"}, {"lineNumber": 3, "col_offset": 5, "nodeName": "open", "type": "Callable[..., file]"}, {"lineNumber": 3, "col_offset": 10, "nodeName": "argv", "type": "List[str]"}, {"lineNumber": 3, "col_offset": 10, "nodeName": "sys", "type": "module"}]

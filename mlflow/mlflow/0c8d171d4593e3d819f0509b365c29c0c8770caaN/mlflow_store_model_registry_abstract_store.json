@@ -1,0 +1,1 @@
+[{"lineNumber": 12, "col_offset": 4, "nodeName": "__metaclass__", "type": "Type[abc.ABCMeta]"}, {"lineNumber": 12, "col_offset": 20, "nodeName": "ABCMeta", "type": "Type[abc.ABCMeta]"}, {"lineNumber": 176, "col_offset": 15, "nodeName": "ALL_STAGES", "type": "List[str]"}]

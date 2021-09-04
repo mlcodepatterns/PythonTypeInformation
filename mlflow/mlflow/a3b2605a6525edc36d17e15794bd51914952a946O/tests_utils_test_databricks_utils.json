@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "test_no_throw", "type": "Callable[[], Any]"}, {"lineNumber": 9, "col_offset": 15, "nodeName": "is_in_databricks_notebook", "type": "Callable[[], Any]"}, {"lineNumber": 9, "col_offset": 15, "nodeName": "databricks_utils", "type": "module"}]
