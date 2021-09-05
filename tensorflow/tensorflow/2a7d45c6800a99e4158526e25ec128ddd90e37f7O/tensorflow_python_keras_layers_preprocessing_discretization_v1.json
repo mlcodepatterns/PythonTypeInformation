@@ -1,0 +1,1 @@
+[{"lineNumber": 27, "col_offset": 21, "nodeName": "Discretization", "type": "Any"}, {"lineNumber": 27, "col_offset": 52, "nodeName": "CombinerPreprocessingLayer", "type": "Type[tensorflow.python.keras.engine.base_preprocessing_layer_v1.CombinerPreprocessingLayer]"}, {"lineNumber": 27, "col_offset": 21, "nodeName": "discretization", "type": "module"}]

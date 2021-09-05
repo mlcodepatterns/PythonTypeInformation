@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "config", "type": "Callable[[Any], Any]"}, {"lineNumber": 18, "col_offset": 4, "nodeName": "task_notification", "type": "str"}, {"lineNumber": 18, "col_offset": 4, "nodeName": "event", "type": "Any"}, {"lineNumber": 18, "col_offset": 4, "nodeName": "settings", "type": "Any"}]

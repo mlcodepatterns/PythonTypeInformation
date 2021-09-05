@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 40, "nodeName": "AbstractSynapseStructure", "type": "Type[spynnaker.pyNN.models.neuron.plasticity.stdp.synapse_structure.abstract_synapse_structure.AbstractSynapseStructure]"}, {"lineNumber": 7, "col_offset": 4, "nodeName": "__slots__", "type": "Tuple[()]"}]

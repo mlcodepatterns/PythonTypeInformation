@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 18, "nodeName": "AbstractPopulationVertex", "type": "Type[spynnaker.pyNN.models.neuron.abstract_population_vertex.AbstractPopulationVertex]"}, {"lineNumber": 17, "col_offset": 14, "nodeName": "SpynnakerException", "type": "Type[spynnaker.pyNN.exceptions.SpynnakerException]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 17, "col_offset": 0, "nodeName": "horizontal_tail_planform", "type": "Callable[[Any], Any]"}, {"lineNumber": 35, "col_offset": 4, "nodeName": "wing_planform", "type": "Any"}, {"lineNumber": 35, "col_offset": 18, "nodeName": "Wing", "type": "Any"}]

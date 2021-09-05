@@ -1,0 +1,1 @@
+[{"lineNumber": 11, "col_offset": 0, "nodeName": "test_sbm_mf", "type": "Callable[..., Any]"}, {"lineNumber": 123, "col_offset": 0, "nodeName": "test_sbm_mf", "type": "Callable[..., Any]"}, {"lineNumber": 17, "col_offset": 10, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

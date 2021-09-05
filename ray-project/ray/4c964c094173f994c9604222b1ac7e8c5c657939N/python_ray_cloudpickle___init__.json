@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "USE_NEW_SERIALIZER", "type": "bool"}, {"lineNumber": 16, "col_offset": 0, "nodeName": "__version__", "type": "str"}, {"lineNumber": 9, "col_offset": 3, "nodeName": "USE_NEW_SERIALIZER", "type": "bool"}, {"lineNumber": 14, "col_offset": 4, "nodeName": "FAST_CLOUDPICKLE_USED", "type": "bool"}]

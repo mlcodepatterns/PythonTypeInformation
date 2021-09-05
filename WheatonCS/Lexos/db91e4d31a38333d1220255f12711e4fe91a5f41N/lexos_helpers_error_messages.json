@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "OVERLAP_SIZE_ERROR", "type": "str"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "NON_NEGATIVE_ERROR", "type": "str"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "LAGER_THAN_ZERO_ERROR", "type": "str"}]

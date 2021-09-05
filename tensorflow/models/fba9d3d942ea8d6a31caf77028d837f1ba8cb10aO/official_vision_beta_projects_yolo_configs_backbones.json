@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 14, "nodeName": "Config", "type": "Type[official.modeling.hyperparams.base_config.Config]"}, {"lineNumber": 8, "col_offset": 14, "nodeName": "hyperparams", "type": "module"}, {"lineNumber": 10, "col_offset": 2, "nodeName": "model_id", "type": "str"}, {"lineNumber": 10, "col_offset": 12, "nodeName": "str", "type": "Type[str]"}]

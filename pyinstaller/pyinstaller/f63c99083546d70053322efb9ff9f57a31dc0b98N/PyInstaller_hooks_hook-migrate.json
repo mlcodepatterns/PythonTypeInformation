@@ -1,0 +1,1 @@
+[{"lineNumber": 15, "col_offset": 3, "nodeName": "is_module_satisfies", "type": "Callable[..., bool]"}, {"lineNumber": 16, "col_offset": 4, "nodeName": "datas", "type": "List[Tuple[Any, str]]"}, {"lineNumber": 16, "col_offset": 12, "nodeName": "copy_metadata", "type": "Callable[[Any], List[Tuple[Any, str]]]"}]

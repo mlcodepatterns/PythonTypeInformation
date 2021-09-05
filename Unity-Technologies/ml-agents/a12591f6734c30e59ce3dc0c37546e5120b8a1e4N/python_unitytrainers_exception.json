@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 19, "nodeName": "Exception", "type": "Type[Exception]"}, {"lineNumber": 11, "col_offset": 22, "nodeName": "TrainerError", "type": "Type[TrainerError]"}, {"lineNumber": 17, "col_offset": 26, "nodeName": "TrainerError", "type": "Type[TrainerError]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 15, "col_offset": 0, "nodeName": "pad", "type": "Any"}, {"lineNumber": 15, "col_offset": 6, "nodeName": "copy_func", "type": "Any"}, {"lineNumber": 15, "col_offset": 16, "nodeName": "numpy_pad", "type": "Any"}]

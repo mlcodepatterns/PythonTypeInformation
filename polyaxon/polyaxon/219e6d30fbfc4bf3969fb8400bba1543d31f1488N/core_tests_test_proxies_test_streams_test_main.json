@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 22, "nodeName": "BaseTestCase", "type": "Any"}, {"lineNumber": 25, "col_offset": 4, "nodeName": "SET_PROXIES_SETTINGS", "type": "bool"}, {"lineNumber": 37, "col_offset": 36, "nodeName": "expected", "type": "str"}, {"lineNumber": 37, "col_offset": 15, "nodeName": "get_main_config", "type": "Any"}]

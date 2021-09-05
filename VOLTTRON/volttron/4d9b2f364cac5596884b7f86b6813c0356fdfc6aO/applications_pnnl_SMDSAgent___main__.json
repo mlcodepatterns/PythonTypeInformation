@@ -1,0 +1,1 @@
+[{"lineNumber": 58, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 63, "col_offset": 11, "nodeName": "KeyboardInterrupt", "type": "Type[KeyboardInterrupt]"}, {"lineNumber": 62, "col_offset": 8, "nodeName": "main", "type": "Any"}]

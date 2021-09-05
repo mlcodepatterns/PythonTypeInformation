@@ -1,0 +1,1 @@
+[{"lineNumber": 26, "col_offset": 0, "nodeName": "RESNET_FROZEN_VAR_PREFIX", "type": "str"}, {"lineNumber": 28, "col_offset": 0, "nodeName": "REGULARIZATION_VAR_REGEX", "type": "str"}, {"lineNumber": 58, "col_offset": 34, "nodeName": "RESNET_FROZEN_VAR_PREFIX", "type": "str"}, {"lineNumber": 62, "col_offset": 41, "nodeName": "REGULARIZATION_VAR_REGEX", "type": "str"}]

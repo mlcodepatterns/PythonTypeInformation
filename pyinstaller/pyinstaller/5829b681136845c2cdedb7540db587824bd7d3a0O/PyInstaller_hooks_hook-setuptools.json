@@ -1,0 +1,1 @@
+[{"lineNumber": 27, "col_offset": 3, "nodeName": "is_unix", "type": "Any"}, {"lineNumber": 27, "col_offset": 14, "nodeName": "is_darwin", "type": "Any"}, {"lineNumber": 28, "col_offset": 4, "nodeName": "append", "type": "Callable"}, {"lineNumber": 28, "col_offset": 4, "nodeName": "hiddenimports", "type": "List[str]"}]

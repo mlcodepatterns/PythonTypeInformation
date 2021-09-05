@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "__version__", "type": "Any"}, {"lineNumber": 6, "col_offset": 14, "nodeName": "append_dev_version", "type": "Callable[[Any], Any]"}]

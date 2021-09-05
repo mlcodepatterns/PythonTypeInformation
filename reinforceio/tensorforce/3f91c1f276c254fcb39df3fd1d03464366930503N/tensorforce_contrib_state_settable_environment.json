@@ -1,0 +1,1 @@
+[{"lineNumber": 19, "col_offset": 31, "nodeName": "Environment", "type": "Type[tensorforce.environments.environment.Environment]"}, {"lineNumber": 32, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

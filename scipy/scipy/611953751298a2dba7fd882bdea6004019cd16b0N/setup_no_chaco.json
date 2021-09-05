@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "ignore_packages", "type": "List[str]"}, {"lineNumber": 7, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 8, "col_offset": 4, "nodeName": "setup_package", "type": "Any"}, {"lineNumber": 8, "col_offset": 18, "nodeName": "ignore_packages", "type": "List[str]"}]

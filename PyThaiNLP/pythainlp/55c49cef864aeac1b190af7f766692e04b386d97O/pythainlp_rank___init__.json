@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "rank", "type": "Callable[[Any], Any]"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "text", "type": "List[str]"}, {"lineNumber": 5, "col_offset": 8, "nodeName": "Counter", "type": "Type[Counter[Any]]"}, {"lineNumber": 5, "col_offset": 16, "nodeName": "data", "type": "Any"}]

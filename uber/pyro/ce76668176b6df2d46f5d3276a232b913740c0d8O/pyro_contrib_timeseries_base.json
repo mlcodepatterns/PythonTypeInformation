@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 22, "nodeName": "PyroModule", "type": "Type[pyro.nn.module.PyroModule]"}, {"lineNumber": 24, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}, {"lineNumber": 40, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

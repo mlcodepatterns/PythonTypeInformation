@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "cache_transformers", "type": "bool"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "log_transformations", "type": "bool"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "drop_bad_extractor_results", "type": "bool"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "default_converters", "type": "Dict[str, Tuple[str, str]]"}]

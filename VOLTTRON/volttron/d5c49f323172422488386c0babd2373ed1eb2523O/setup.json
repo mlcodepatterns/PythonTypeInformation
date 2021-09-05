@@ -1,0 +1,1 @@
+[{"lineNumber": 85, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 86, "col_offset": 4, "nodeName": "setup", "type": "Any"}, {"lineNumber": 94, "col_offset": 27, "nodeName": "install_requires", "type": "List[str]"}, {"lineNumber": 93, "col_offset": 19, "nodeName": "find_packages", "type": "Any"}]

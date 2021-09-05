@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 16, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 23, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}, {"lineNumber": 28, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "cardinal_direction", "type": "FrozenSet[str]"}, {"lineNumber": 1, "col_offset": 21, "nodeName": "frozenset", "type": "Type[FrozenSet[Any]]"}]

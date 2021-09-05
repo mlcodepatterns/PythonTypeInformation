@@ -1,0 +1,1 @@
+[{"lineNumber": 261, "col_offset": 0, "nodeName": "viridis", "type": "Any"}, {"lineNumber": 261, "col_offset": 10, "nodeName": "from_list", "type": "Any"}, {"lineNumber": 261, "col_offset": 55, "nodeName": "viridis_data", "type": "List[Any]"}, {"lineNumber": 261, "col_offset": 10, "nodeName": "LinearSegmentedColormap", "type": "Any"}]

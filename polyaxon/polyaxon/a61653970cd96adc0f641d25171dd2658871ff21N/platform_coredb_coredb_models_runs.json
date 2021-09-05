@@ -1,0 +1,1 @@
+[{"lineNumber": 20, "col_offset": 10, "nodeName": "BaseRun", "type": "Any"}, {"lineNumber": 21, "col_offset": 15, "nodeName": "Meta", "type": "Any"}, {"lineNumber": 21, "col_offset": 15, "nodeName": "BaseRun", "type": "Any"}, {"lineNumber": 22, "col_offset": 8, "nodeName": "app_label", "type": "str"}, {"lineNumber": 23, "col_offset": 8, "nodeName": "db_table", "type": "str"}]

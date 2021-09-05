@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 22, "nodeName": "Corpus", "type": "Type[underthesea.underthesea.Corpus]"}, {"lineNumber": 6, "col_offset": 8, "nodeName": "documents", "type": "None"}, {"lineNumber": 6, "col_offset": 8, "nodeName": "self", "type": "PlainTextCorpus"}]

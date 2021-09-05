@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "_MAJOR", "type": "str"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "_MINOR", "type": "str"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "_REVISION", "type": "str"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "VERSION_SHORT", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "VERSION", "type": "str"}]

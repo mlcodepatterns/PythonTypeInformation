@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "test_pkg_resources_importable", "type": "Callable[[Any], Any]"}, {"lineNumber": 8, "col_offset": 4, "nodeName": "test_source", "type": "Any"}, {"lineNumber": 8, "col_offset": 4, "nodeName": "pyi_builder", "type": "Any"}]

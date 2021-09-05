@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "install_requires", "type": "List[str]"}, {"lineNumber": 12, "col_offset": 0, "nodeName": "setup", "type": "Any"}, {"lineNumber": 14, "col_offset": 10, "nodeName": "VERSION", "type": "Any"}, {"lineNumber": 20, "col_offset": 19, "nodeName": "install_requires", "type": "List[str]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 17, "col_offset": 38, "nodeName": "__name__", "type": "str"}, {"lineNumber": 17, "col_offset": 7, "nodeName": "endswith", "type": "Callable[..., bool]"}, {"lineNumber": 17, "col_offset": 7, "nodeName": "__name__", "type": "str"}]

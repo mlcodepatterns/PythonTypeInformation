@@ -1,0 +1,1 @@
+[{"lineNumber": 20, "col_offset": 0, "nodeName": "TParamVal", "type": "Any"}, {"lineNumber": 20, "col_offset": 12, "nodeName": "Union", "type": "Any"}, {"lineNumber": 20, "col_offset": 18, "nodeName": "float", "type": "Type[float]"}, {"lineNumber": 20, "col_offset": 25, "nodeName": "Basic", "type": "Any"}, {"lineNumber": 20, "col_offset": 25, "nodeName": "sympy", "type": "Any"}]

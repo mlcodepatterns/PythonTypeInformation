@@ -1,0 +1,1 @@
+[{"lineNumber": 43, "col_offset": 0, "nodeName": "option_requirements", "type": "List[Tuple[str, List[str]]]"}, {"lineNumber": 47, "col_offset": 0, "nodeName": "install_requires", "type": "List[str]"}, {"lineNumber": 74, "col_offset": 0, "nodeName": "extras_require", "type": "Dict[str, List[str]]"}]

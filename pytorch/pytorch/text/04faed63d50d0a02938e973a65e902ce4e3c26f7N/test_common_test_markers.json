@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 7, "nodeName": "skipif", "type": "Any"}, {"lineNumber": 4, "col_offset": 7, "nodeName": "mark", "type": "Any"}, {"lineNumber": 4, "col_offset": 7, "nodeName": "pytest", "type": "Any"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "getenv", "type": "Callable"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "os", "type": "module"}]

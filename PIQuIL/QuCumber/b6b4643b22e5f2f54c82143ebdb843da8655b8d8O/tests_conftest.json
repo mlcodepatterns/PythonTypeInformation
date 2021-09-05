@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "pytest_addoption", "type": "Callable[[Any], Any]"}, {"lineNumber": 2, "col_offset": 4, "nodeName": "addoption", "type": "Any"}, {"lineNumber": 2, "col_offset": 4, "nodeName": "parser", "type": "Any"}]

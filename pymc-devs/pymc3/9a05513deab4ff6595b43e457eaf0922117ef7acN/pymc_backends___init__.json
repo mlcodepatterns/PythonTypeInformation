@@ -1,0 +1,1 @@
+[{"lineNumber": 116, "col_offset": 34, "nodeName": "Text", "type": "Type[pymc.backends.text.Text]"}, {"lineNumber": 118, "col_offset": 36, "nodeName": "SQLite", "type": "Type[pymc.backends.sqlite.SQLite]"}]

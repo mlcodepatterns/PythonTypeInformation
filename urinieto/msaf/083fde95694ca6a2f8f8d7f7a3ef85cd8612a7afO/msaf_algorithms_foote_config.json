@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "config", "type": "Dict[str, Union[str, int]]"}, {"lineNumber": 19, "col_offset": 0, "nodeName": "algo_id", "type": "str"}, {"lineNumber": 20, "col_offset": 0, "nodeName": "is_boundary_type", "type": "bool"}, {"lineNumber": 21, "col_offset": 0, "nodeName": "is_label_type", "type": "bool"}]

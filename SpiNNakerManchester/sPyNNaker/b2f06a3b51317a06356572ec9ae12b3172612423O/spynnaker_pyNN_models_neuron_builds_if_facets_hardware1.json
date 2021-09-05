@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 36, "nodeName": "object", "type": "Type[object]"}, {"lineNumber": 18, "col_offset": 14, "nodeName": "SpynnakerException", "type": "Type[spynnaker.pyNN.exceptions.SpynnakerException]"}]

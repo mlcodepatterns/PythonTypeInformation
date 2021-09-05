@@ -1,0 +1,1 @@
+[{"lineNumber": 13, "col_offset": 4, "nodeName": "logDiagSum", "type": "Any"}, {"lineNumber": 13, "col_offset": 17, "nodeName": "ReductionKernel", "type": "Any"}, {"lineNumber": 13, "col_offset": 33, "nodeName": "float64", "type": "Any"}, {"lineNumber": 13, "col_offset": 33, "nodeName": "np", "type": "module"}]

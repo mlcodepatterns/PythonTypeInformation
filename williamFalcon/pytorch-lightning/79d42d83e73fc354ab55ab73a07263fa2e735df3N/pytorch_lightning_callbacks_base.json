@@ -1,0 +1,1 @@
+[{"lineNumber": 22, "col_offset": 15, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 22, "col_offset": 15, "nodeName": "abc", "type": "module"}, {"lineNumber": 33, "col_offset": 47, "nodeName": "str", "type": "Type[str]"}, {"lineNumber": 37, "col_offset": 50, "nodeName": "str", "type": "Type[str]"}]

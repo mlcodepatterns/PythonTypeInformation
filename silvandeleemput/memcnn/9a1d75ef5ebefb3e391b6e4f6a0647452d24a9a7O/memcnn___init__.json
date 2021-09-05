@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "__author__", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "__email__", "type": "str"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "__version__", "type": "str"}, {"lineNumber": 14, "col_offset": 0, "nodeName": "__all__", "type": "List[str]"}]

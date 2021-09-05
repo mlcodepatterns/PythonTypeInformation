@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "FEATURE_ATTR_NAME", "type": "str"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "TARGET_ATTR_NAME", "type": "str"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "TYPE_ATTR_NAME", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "UNKNOWN_TARGET_ATTRIBUTE", "type": "str"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 23, "nodeName": "Enum", "type": "Type[enum.Enum]"}, {"lineNumber": 19, "col_offset": 4, "nodeName": "ENERGY", "type": "str"}, {"lineNumber": 20, "col_offset": 4, "nodeName": "EXCITED_STATES", "type": "str"}]

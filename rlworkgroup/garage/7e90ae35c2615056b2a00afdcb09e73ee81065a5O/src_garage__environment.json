@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 18, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 6, "col_offset": 18, "nodeName": "abc", "type": "module"}, {"lineNumber": 208, "col_offset": 8, "nodeName": "close", "type": "Callable[[], Any]"}, {"lineNumber": 208, "col_offset": 8, "nodeName": "self", "type": "Environment"}]

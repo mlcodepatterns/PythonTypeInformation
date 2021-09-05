@@ -1,0 +1,1 @@
+[{"lineNumber": 9, "col_offset": 0, "nodeName": "segment", "type": "Callable[[Any], Any]"}, {"lineNumber": 10, "col_offset": 11, "nodeName": "tokenize", "type": "Any"}, {"lineNumber": 10, "col_offset": 28, "nodeName": "text", "type": "Any"}, {"lineNumber": 10, "col_offset": 11, "nodeName": "deepcut", "type": "Any"}]

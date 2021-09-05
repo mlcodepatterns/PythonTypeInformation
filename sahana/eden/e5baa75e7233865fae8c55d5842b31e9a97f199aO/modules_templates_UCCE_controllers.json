@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "THEME", "type": "str"}, {"lineNumber": 9, "col_offset": 12, "nodeName": "S3CustomController", "type": "Any"}, {"lineNumber": 14, "col_offset": 8, "nodeName": "_view", "type": "Any"}, {"lineNumber": 14, "col_offset": 19, "nodeName": "THEME", "type": "str"}, {"lineNumber": 14, "col_offset": 8, "nodeName": "self", "type": "index"}]
