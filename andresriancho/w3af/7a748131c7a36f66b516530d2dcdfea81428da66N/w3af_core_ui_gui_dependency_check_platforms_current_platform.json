@@ -1,0 +1,1 @@
+[{"lineNumber": 25, "col_offset": 3, "nodeName": "is_mac", "type": "Callable[[], bool]"}, {"lineNumber": 31, "col_offset": 5, "nodeName": "is_openbsd", "type": "Callable[[], bool]"}, {"lineNumber": 36, "col_offset": 5, "nodeName": "is_fedora", "type": "Callable[[], bool]"}]

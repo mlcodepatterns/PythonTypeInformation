@@ -1,0 +1,1 @@
+[{"lineNumber": 25, "col_offset": 26, "nodeName": "TestScanVulnerableSite", "type": "Any"}, {"lineNumber": 25, "col_offset": 50, "nodeName": "PluginTest", "type": "Any"}, {"lineNumber": 26, "col_offset": 4, "nodeName": "target_url", "type": "str"}, {"lineNumber": 27, "col_offset": 4, "nodeName": "EXPECTED_VULNS", "type": "Set[Tuple[()]]"}]

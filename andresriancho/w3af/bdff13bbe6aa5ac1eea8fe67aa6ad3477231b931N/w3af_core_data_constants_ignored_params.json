@@ -1,0 +1,1 @@
+[{"lineNumber": 49, "col_offset": 0, "nodeName": "is_in_ignored_parameters", "type": "Callable[[Any], Any]"}, {"lineNumber": 50, "col_offset": 28, "nodeName": "IGNORED_PARAMETERS", "type": "Set[str]"}, {"lineNumber": 50, "col_offset": 11, "nodeName": "upper", "type": "Any"}, {"lineNumber": 50, "col_offset": 11, "nodeName": "param", "type": "Any"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 17, "nodeName": "AuthBase", "type": "Any"}, {"lineNumber": 15, "col_offset": 0, "nodeName": "registerAuth", "type": "Any"}, {"lineNumber": 15, "col_offset": 23, "nodeName": "DjangoAuth", "type": "Type[DjangoAuth]"}]
