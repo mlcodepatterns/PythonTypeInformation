@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 33, "nodeName": "TestCase", "type": "Any"}, {"lineNumber": 7, "col_offset": 8, "nodeName": "SpecialOrthogonalGroup", "type": "Type[pymanopt.manifolds.special_orthogonal_group.SpecialOrthogonalGroup]"}]

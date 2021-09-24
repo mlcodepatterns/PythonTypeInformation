@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "_get_python_type", "type": "Callable[[], Any]"}, {"lineNumber": 3, "col_offset": 25, "nodeName": "__module__", "type": "Any"}, {"lineNumber": 3, "col_offset": 25, "nodeName": "get_ipython", "type": "Any"}]

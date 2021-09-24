@@ -1,0 +1,1 @@
+[{"lineNumber": 20, "col_offset": 0, "nodeName": "require_gpu", "type": "bool"}, {"lineNumber": 20, "col_offset": 14, "nodeName": "get", "type": "Callable"}, {"lineNumber": 20, "col_offset": 14, "nodeName": "environ", "type": "os._Environ[str]"}, {"lineNumber": 20, "col_offset": 14, "nodeName": "os", "type": "module"}]

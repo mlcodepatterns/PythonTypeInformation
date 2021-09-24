@@ -1,0 +1,1 @@
+[{"lineNumber": 22, "col_offset": 0, "nodeName": "QUOTE_CHARS", "type": "Set[str]"}, {"lineNumber": 24, "col_offset": 0, "nodeName": "ATTR_DELIMITERS", "type": "Set[str]"}, {"lineNumber": 38, "col_offset": 0, "nodeName": "EXECUTABLE_ATTRS", "type": "Set[str]"}, {"lineNumber": 42, "col_offset": 0, "nodeName": "CONTEXT_DETECTOR", "type": "str"}]

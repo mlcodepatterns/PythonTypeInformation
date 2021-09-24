@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "mock_storage", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 9, "col_offset": 19, "nodeName": "STORAGE_VERSION", "type": "Any"}, {"lineNumber": 10, "col_offset": 16, "nodeName": "data", "type": "Any"}, {"lineNumber": 9, "col_offset": 19, "nodeName": "onboarding", "type": "module"}]

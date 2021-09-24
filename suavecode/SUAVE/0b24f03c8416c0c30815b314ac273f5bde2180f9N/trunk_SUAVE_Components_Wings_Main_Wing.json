@@ -1,1 +1,0 @@
-[{"lineNumber": 19, "col_offset": 16, "nodeName": "Wing", "type": "Any"}, {"lineNumber": 62, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 63, "col_offset": 10, "nodeName": "RuntimeError", "type": "Type[RuntimeError]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 44, "col_offset": 0, "nodeName": "QA_select_by_func", "type": "Callable[..., Any]"}, {"lineNumber": 45, "col_offset": 4, "nodeName": "func", "type": "Any"}, {"lineNumber": 45, "col_offset": 10, "nodeName": "arg", "type": "Tuple[Any, ...]"}, {"lineNumber": 45, "col_offset": 17, "nodeName": "kwargs", "type": "Dict[str, Any]"}]

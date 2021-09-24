@@ -1,0 +1,1 @@
+[{"lineNumber": 48, "col_offset": 7, "nodeName": "box", "type": "Any"}, {"lineNumber": 48, "col_offset": 23, "nodeName": "box", "type": "Any"}, {"lineNumber": 49, "col_offset": 14, "nodeName": "ValueError", "type": "Type[ValueError]"}, {"lineNumber": 48, "col_offset": 23, "nodeName": "atoms", "type": "Any"}]

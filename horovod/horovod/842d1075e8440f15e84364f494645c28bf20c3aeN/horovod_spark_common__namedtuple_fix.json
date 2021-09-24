@@ -1,1 +1,0 @@
-[{"lineNumber": 20, "col_offset": 0, "nodeName": "__hijack", "type": "int"}, {"lineNumber": 20, "col_offset": 0, "nodeName": "namedtuple", "type": "Callable[..., Type[Any]]"}, {"lineNumber": 20, "col_offset": 0, "nodeName": "collections", "type": "module"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "urlpatterns", "type": "List[Any]"}, {"lineNumber": 7, "col_offset": 4, "nodeName": "path", "type": "Any"}, {"lineNumber": 7, "col_offset": 13, "nodeName": "urls", "type": "Tuple[List[Any], str, Any]"}, {"lineNumber": 7, "col_offset": 13, "nodeName": "public_admin", "type": "jarbas.public_admin.sites.PublicAdminSite"}]

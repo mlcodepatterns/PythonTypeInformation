@@ -1,1 +1,0 @@
-[{"lineNumber": 17, "col_offset": 0, "nodeName": "some_func", "type": "Callable[[], Any]"}, {"lineNumber": 21, "col_offset": 0, "nodeName": "ignore_this", "type": "int"}]

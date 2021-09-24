@@ -1,0 +1,1 @@
+[{"lineNumber": 19, "col_offset": 20, "nodeName": "verify_local_bear", "type": "Any"}, {"lineNumber": 19, "col_offset": 38, "nodeName": "CSSAutoPrefixBear", "type": "Any"}, {"lineNumber": 20, "col_offset": 51, "nodeName": "good_file", "type": "str"}, {"lineNumber": 21, "col_offset": 53, "nodeName": "bad_file", "type": "str"}]

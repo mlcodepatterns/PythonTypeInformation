@@ -1,0 +1,1 @@
+[{"lineNumber": 36886, "col_offset": 0, "nodeName": "LOOKUP", "type": "Dict[Any, Any]"}, {"lineNumber": 36887, "col_offset": 0, "nodeName": "update", "type": "Callable"}, {"lineNumber": 36887, "col_offset": 14, "nodeName": "ID_BASE_LEMMA", "type": "Dict[str, str]"}, {"lineNumber": 36887, "col_offset": 0, "nodeName": "LOOKUP", "type": "Dict[Any, Any]"}]

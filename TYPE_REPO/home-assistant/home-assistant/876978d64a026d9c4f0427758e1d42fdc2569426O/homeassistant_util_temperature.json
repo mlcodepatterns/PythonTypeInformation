@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "fahrenheit_to_celcius", "type": "Callable[[Any], Any]"}, {"lineNumber": 13, "col_offset": 0, "nodeName": "celcius_to_fahrenheit", "type": "Callable[[Any], Any]"}, {"lineNumber": 10, "col_offset": 12, "nodeName": "fahrenheit", "type": "Any"}, {"lineNumber": 15, "col_offset": 11, "nodeName": "celcius", "type": "Any"}]

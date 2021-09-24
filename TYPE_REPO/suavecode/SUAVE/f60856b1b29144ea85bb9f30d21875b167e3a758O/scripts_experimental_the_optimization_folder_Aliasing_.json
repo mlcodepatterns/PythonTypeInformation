@@ -1,0 +1,1 @@
+[{"lineNumber": 10, "col_offset": 0, "nodeName": "setup_aliases", "type": "Callable[[], Any]"}, {"lineNumber": 13, "col_offset": 4, "nodeName": "aliases", "type": "List[Union[str, List[str]]]"}, {"lineNumber": 31, "col_offset": 11, "nodeName": "aliases", "type": "List[Union[str, List[str]]]"}]

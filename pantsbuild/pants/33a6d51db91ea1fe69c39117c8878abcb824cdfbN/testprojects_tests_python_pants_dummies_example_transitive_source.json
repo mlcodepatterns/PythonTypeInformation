@@ -1,1 +1,0 @@
-[{"lineNumber": 4, "col_offset": 0, "nodeName": "add_four", "type": "Callable[[Any], Any]"}, {"lineNumber": 5, "col_offset": 9, "nodeName": "add_two", "type": "Any"}, {"lineNumber": 5, "col_offset": 17, "nodeName": "x", "type": "Any"}]

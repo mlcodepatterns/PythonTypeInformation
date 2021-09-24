@@ -1,0 +1,1 @@
+[{"lineNumber": 10, "col_offset": 0, "nodeName": "add_from_module", "type": "Callable[..., None]"}, {"lineNumber": 10, "col_offset": 37, "nodeName": "exp", "type": "Any"}, {"lineNumber": 10, "col_offset": 0, "nodeName": "EXPERIMENTS", "type": "catalyst.tools.registry.Registry"}, {"lineNumber": 10, "col_offset": 0, "nodeName": "registry", "type": "module"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 2, "col_offset": 0, "nodeName": "test", "type": "statsmodels.PytestTester"}, {"lineNumber": 2, "col_offset": 7, "nodeName": "PytestTester", "type": "Type[statsmodels.PytestTester]"}]

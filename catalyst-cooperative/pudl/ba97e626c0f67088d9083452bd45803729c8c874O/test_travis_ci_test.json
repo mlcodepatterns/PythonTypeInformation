@@ -1,1 +1,0 @@
-[{"lineNumber": 5, "col_offset": 0, "nodeName": "test_ferc1_init_db", "type": "Callable[[Any], Any]"}, {"lineNumber": 20, "col_offset": 0, "nodeName": "test_pudl_init_db", "type": "Callable[[Any], Any]"}]

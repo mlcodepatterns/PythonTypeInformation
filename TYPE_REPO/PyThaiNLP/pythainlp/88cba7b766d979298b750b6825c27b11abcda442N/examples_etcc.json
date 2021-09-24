@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "print", "type": "Callable[..., None]"}, {"lineNumber": 5, "col_offset": 6, "nodeName": "etcc", "type": "Callable[[Any], str]"}, {"lineNumber": 5, "col_offset": 6, "nodeName": "etcc", "type": "module"}]

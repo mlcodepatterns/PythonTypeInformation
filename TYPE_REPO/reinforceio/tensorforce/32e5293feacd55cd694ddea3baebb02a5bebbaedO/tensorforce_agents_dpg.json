@@ -1,0 +1,1 @@
+[{"lineNumber": 22, "col_offset": 34, "nodeName": "TensorforceAgent", "type": "Type[tensorforce.agents.tensorforce.TensorforceAgent]"}, {"lineNumber": 155, "col_offset": 14, "nodeName": "TensorforceError", "type": "Type[tensorforce.exception.TensorforceError]"}]

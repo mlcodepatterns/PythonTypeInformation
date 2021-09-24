@@ -1,0 +1,1 @@
+[{"lineNumber": 26, "col_offset": 3, "nodeName": "hasattr", "type": "Callable[[Any, str], bool]"}, {"lineNumber": 26, "col_offset": 11, "nodeName": "sys", "type": "module"}, {"lineNumber": 60, "col_offset": 9, "nodeName": "ImportError", "type": "Type[ImportError]"}]

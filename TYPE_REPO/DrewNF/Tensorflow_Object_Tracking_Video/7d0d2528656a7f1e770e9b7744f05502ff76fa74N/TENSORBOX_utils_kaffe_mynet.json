@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 10, "nodeName": "Network", "type": "Any"}, {"lineNumber": 5, "col_offset": 9, "nodeName": "conv", "type": "Any"}, {"lineNumber": 5, "col_offset": 9, "nodeName": "feed", "type": "Any"}, {"lineNumber": 5, "col_offset": 9, "nodeName": "self", "type": "VGG"}]

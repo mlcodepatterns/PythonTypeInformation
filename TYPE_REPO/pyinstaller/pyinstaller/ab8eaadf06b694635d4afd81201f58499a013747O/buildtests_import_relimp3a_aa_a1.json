@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "getString", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 9, "nodeName": "string", "type": "Any"}, {"lineNumber": 5, "col_offset": 21, "nodeName": "string", "type": "Any"}, {"lineNumber": 5, "col_offset": 9, "nodeName": "b1", "type": "Any"}, {"lineNumber": 5, "col_offset": 21, "nodeName": "c1", "type": "Any"}]

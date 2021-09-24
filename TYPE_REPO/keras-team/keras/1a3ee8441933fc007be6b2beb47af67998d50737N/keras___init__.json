@@ -1,0 +1,1 @@
+[{"lineNumber": 32, "col_offset": 0, "nodeName": "__version__", "type": "str"}, {"lineNumber": 4, "col_offset": 7, "nodeName": "ImportError", "type": "Type[ImportError]"}, {"lineNumber": 5, "col_offset": 10, "nodeName": "ImportError", "type": "Type[ImportError]"}]

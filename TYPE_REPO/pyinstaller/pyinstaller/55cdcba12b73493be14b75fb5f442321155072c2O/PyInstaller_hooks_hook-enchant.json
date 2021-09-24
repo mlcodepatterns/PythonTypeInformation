@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 3, "nodeName": "platform", "type": "str"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "datas", "type": "Any"}, {"lineNumber": 3, "col_offset": 3, "nodeName": "sys", "type": "module"}, {"lineNumber": 5, "col_offset": 12, "nodeName": "enchant_win32_data_files", "type": "Any"}]

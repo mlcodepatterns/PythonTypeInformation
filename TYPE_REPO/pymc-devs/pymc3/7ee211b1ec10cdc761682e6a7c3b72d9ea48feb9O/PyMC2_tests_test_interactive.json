@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "S", "type": "Any"}, {"lineNumber": 8, "col_offset": 4, "nodeName": "Sampler", "type": "Any"}, {"lineNumber": 8, "col_offset": 12, "nodeName": "DisasterModel", "type": "module"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "interactive_sample", "type": "Any"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "S", "type": "Any"}]

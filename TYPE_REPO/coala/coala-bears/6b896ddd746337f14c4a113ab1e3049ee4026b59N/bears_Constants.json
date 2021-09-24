@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "bears_root", "type": "str"}, {"lineNumber": 6, "col_offset": 13, "nodeName": "dirname", "type": "Callable"}, {"lineNumber": 6, "col_offset": 29, "nodeName": "__file__", "type": "str"}, {"lineNumber": 6, "col_offset": 13, "nodeName": "path", "type": "module"}, {"lineNumber": 6, "col_offset": 13, "nodeName": "os", "type": "module"}]

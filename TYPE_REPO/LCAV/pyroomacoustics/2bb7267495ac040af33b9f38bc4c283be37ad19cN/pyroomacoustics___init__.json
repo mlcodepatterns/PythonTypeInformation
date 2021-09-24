@@ -1,0 +1,1 @@
+[{"lineNumber": 142, "col_offset": 0, "nodeName": "warn", "type": "Callable"}, {"lineNumber": 144, "col_offset": 6, "nodeName": "DeprecationWarning", "type": "Type[DeprecationWarning]"}, {"lineNumber": 142, "col_offset": 0, "nodeName": "warnings", "type": "module"}]

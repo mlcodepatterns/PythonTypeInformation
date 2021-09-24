@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "C_CHOOSER", "type": "int"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "C_COLOR", "type": "int"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "C_SHOW", "type": "int"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "C_REMOVE", "type": "int"}]

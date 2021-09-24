@@ -1,0 +1,1 @@
+[{"lineNumber": 11, "col_offset": 11, "nodeName": "WaveNet", "type": "Type[wavenet_vocoder.WaveNet]"}, {"lineNumber": 11, "col_offset": 28, "nodeName": "channels", "type": "Any"}, {"lineNumber": 11, "col_offset": 46, "nodeName": "dropout", "type": "Any"}, {"lineNumber": 11, "col_offset": 67, "nodeName": "kernel_size", "type": "Any"}]

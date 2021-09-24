@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "test_realdigits", "type": "Callable[[], Any]"}, {"lineNumber": 231, "col_offset": 8, "nodeName": "check_evaluation", "type": "Any"}, {"lineNumber": 231, "col_offset": 25, "nodeName": "str_expr", "type": "Any"}, {"lineNumber": 231, "col_offset": 35, "nodeName": "str_expected", "type": "Any"}]

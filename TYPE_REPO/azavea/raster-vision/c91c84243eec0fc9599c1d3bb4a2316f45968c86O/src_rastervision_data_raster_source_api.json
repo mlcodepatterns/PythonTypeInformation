@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "RASTER_SOURCE", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "GEOTIFF_SOURCE", "type": "str"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "IMAGE_SOURCE", "type": "str"}]

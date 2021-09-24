@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "from_config_file", "type": "Callable[[Any], None]"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "bootstrap", "type": "module"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "homeassistant", "type": "module"}]

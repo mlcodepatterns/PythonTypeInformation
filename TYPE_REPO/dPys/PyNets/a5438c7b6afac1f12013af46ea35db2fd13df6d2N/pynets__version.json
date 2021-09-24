@@ -1,0 +1,1 @@
+[{"lineNumber": 20, "col_offset": 0, "nodeName": "get_versions", "type": "Callable[[], Any]"}, {"lineNumber": 21, "col_offset": 11, "nodeName": "loads", "type": "Callable[..., Any]"}, {"lineNumber": 21, "col_offset": 22, "nodeName": "version_json", "type": "str"}, {"lineNumber": 21, "col_offset": 11, "nodeName": "json", "type": "module"}]

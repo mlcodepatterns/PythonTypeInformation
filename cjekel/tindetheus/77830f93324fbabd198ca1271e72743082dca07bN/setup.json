@@ -1,1 +1,0 @@
-[{"lineNumber": 3, "col_offset": 0, "nodeName": "setup", "type": "Any"}, {"lineNumber": 16, "col_offset": 21, "nodeName": "read", "type": "Callable"}, {"lineNumber": 16, "col_offset": 21, "nodeName": "open", "type": "Callable[..., IO[Any]]"}, {"lineNumber": 16, "col_offset": 21, "nodeName": "io", "type": "module"}]

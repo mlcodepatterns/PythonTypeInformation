@@ -1,0 +1,1 @@
+[{"lineNumber": 14, "col_offset": 0, "nodeName": "datas", "type": "List[Tuple[Any, str]]"}, {"lineNumber": 14, "col_offset": 10, "nodeName": "get_package_paths", "type": "Callable[[Any], Tuple[Any, Any]]"}]

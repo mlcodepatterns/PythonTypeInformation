@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "test_greedy_example", "type": "Callable[[], Any]"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "lazy", "type": "bool"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "config", "type": "starry.configdefaults.Config"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "starry", "type": "module"}]

@@ -1,1 +1,0 @@
-[{"lineNumber": 8, "col_offset": 0, "nodeName": "setup_module", "type": "Callable[[Any], Any]"}, {"lineNumber": 13, "col_offset": 11, "nodeName": "ImportError", "type": "Type[ImportError]"}, {"lineNumber": 14, "col_offset": 8, "nodeName": "skip", "type": "Any"}, {"lineNumber": 14, "col_offset": 8, "nodeName": "pytest", "type": "Any"}]

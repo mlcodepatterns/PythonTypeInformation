@@ -1,1 +1,0 @@
-[{"lineNumber": 37, "col_offset": 0, "nodeName": "__all__", "type": "List[str]"}, {"lineNumber": 37, "col_offset": 10, "nodeName": "list", "type": "Type[List[Any]]"}, {"lineNumber": 37, "col_offset": 15, "nodeName": "keys", "type": "Callable"}, {"lineNumber": 37, "col_offset": 15, "nodeName": "locals", "type": "Callable[[], Dict[str, object]]"}]

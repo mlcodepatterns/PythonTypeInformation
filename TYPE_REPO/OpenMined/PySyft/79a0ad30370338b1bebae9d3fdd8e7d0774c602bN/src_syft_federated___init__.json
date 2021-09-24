@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "JSONDict", "type": "Type[Dict[str, Any]]"}, {"lineNumber": 5, "col_offset": 11, "nodeName": "TypeDict", "type": "Any"}, {"lineNumber": 5, "col_offset": 20, "nodeName": "str", "type": "Type[str]"}, {"lineNumber": 5, "col_offset": 25, "nodeName": "TypeAny", "type": "Any"}]

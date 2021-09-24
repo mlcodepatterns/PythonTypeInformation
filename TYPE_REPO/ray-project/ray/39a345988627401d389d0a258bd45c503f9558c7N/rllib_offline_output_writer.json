@@ -1,0 +1,1 @@
+[{"lineNumber": 13, "col_offset": 4, "nodeName": "write", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 23, "col_offset": 17, "nodeName": "OutputWriter", "type": "Any"}, {"lineNumber": 26, "col_offset": 4, "nodeName": "write", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 20, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

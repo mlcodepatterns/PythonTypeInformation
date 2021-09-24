@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 20, "nodeName": "Field", "type": "Type[allennlp.data.field.Field]"}, {"lineNumber": 11, "col_offset": 33, "nodeName": "int", "type": "Type[int]"}, {"lineNumber": 4, "col_offset": 26, "nodeName": "DataArray", "type": "Any"}, {"lineNumber": 15, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}]

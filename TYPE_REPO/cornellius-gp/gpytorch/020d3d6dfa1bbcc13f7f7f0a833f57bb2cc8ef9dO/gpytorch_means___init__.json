@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "__all__", "type": "List[Any]"}, {"lineNumber": 5, "col_offset": 11, "nodeName": "Mean", "type": "Any"}, {"lineNumber": 5, "col_offset": 17, "nodeName": "ConstantMean", "type": "Any"}, {"lineNumber": 5, "col_offset": 31, "nodeName": "ZeroMean", "type": "Any"}]

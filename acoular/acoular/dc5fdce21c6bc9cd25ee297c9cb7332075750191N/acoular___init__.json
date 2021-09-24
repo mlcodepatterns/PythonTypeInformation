@@ -1,1 +1,0 @@
-[{"lineNumber": 61, "col_offset": 0, "nodeName": "setdefault", "type": "Callable"}, {"lineNumber": 61, "col_offset": 0, "nodeName": "environ", "type": "os._Environ[str]"}, {"lineNumber": 61, "col_offset": 0, "nodeName": "os", "type": "module"}]

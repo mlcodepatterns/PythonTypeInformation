@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "register_writer", "type": "Callable[[Any, Any], None]"}, {"lineNumber": 6, "col_offset": 26, "nodeName": "VivadoWriter", "type": "Type[hls4ml.writer.vivado_writer.VivadoWriter]"}]

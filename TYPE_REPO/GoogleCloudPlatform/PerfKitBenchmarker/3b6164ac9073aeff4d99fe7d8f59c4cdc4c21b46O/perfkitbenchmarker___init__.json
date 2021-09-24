@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 0, "nodeName": "flags", "type": "perfkitbenchmarker.context.FlagsModuleProxy"}, {"lineNumber": 24, "col_offset": 8, "nodeName": "FlagsModuleProxy", "type": "Type[perfkitbenchmarker.context.FlagsModuleProxy]"}, {"lineNumber": 24, "col_offset": 8, "nodeName": "context", "type": "module"}]

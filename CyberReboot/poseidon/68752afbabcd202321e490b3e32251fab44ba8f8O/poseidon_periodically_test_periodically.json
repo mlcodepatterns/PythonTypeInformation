@@ -1,1 +1,0 @@
-[{"lineNumber": 26, "col_offset": 0, "nodeName": "test_periodically", "type": "Callable[[], Any]"}, {"lineNumber": 27, "col_offset": 4, "nodeName": "a", "type": "Any"}, {"lineNumber": 27, "col_offset": 8, "nodeName": "periodically", "type": "Any"}, {"lineNumber": 28, "col_offset": 11, "nodeName": "a", "type": "Any"}]

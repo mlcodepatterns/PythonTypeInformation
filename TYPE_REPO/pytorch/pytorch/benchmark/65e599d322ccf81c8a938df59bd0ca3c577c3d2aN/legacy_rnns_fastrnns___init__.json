@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "seqLength", "type": "int"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "numLayers", "type": "int"}, {"lineNumber": 8, "col_offset": 0, "nodeName": "inputSize", "type": "int"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "hiddenSize", "type": "int"}, {"lineNumber": 10, "col_offset": 0, "nodeName": "miniBatch", "type": "int"}]

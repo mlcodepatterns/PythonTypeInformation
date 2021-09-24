@@ -1,1 +1,0 @@
-[{"lineNumber": 8, "col_offset": 0, "nodeName": "default_pg_timeout", "type": "datetime.timedelta"}, {"lineNumber": 8, "col_offset": 21, "nodeName": "timedelta", "type": "Type[datetime.timedelta]"}]

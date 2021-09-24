@@ -1,0 +1,1 @@
+[{"lineNumber": 32, "col_offset": 0, "nodeName": "__version__", "type": "str"}, {"lineNumber": 34, "col_offset": 0, "nodeName": "byteOrder", "type": "int"}, {"lineNumber": 36, "col_offset": 0, "nodeName": "BSQ", "type": "int"}, {"lineNumber": 37, "col_offset": 0, "nodeName": "BIL", "type": "int"}, {"lineNumber": 38, "col_offset": 0, "nodeName": "BIP", "type": "int"}]

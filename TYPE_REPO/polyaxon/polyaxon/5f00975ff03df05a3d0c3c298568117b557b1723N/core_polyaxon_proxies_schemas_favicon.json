@@ -1,0 +1,1 @@
+[{"lineNumber": 26, "col_offset": 0, "nodeName": "get_favicon_config", "type": "Callable[[], Any]"}, {"lineNumber": 27, "col_offset": 11, "nodeName": "get_config", "type": "Any"}, {"lineNumber": 27, "col_offset": 30, "nodeName": "OPTIONS", "type": "str"}]

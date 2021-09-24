@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "test_cmap_generator_function", "type": "Callable[[], Any]"}, {"lineNumber": 4, "col_offset": 26, "nodeName": "Viridis10", "type": "List[str]"}, {"lineNumber": 4, "col_offset": 11, "nodeName": "viridis", "type": "Callable[[Any], List[Any]]"}]

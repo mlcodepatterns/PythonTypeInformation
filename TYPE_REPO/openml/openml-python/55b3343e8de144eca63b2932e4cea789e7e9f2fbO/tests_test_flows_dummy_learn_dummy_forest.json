@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 21, "nodeName": "object", "type": "Type[object]"}, {"lineNumber": 3, "col_offset": 15, "nodeName": "self", "type": "DummyRegressor"}, {"lineNumber": 12, "col_offset": 15, "nodeName": "self", "type": "DummyRegressor"}, {"lineNumber": 6, "col_offset": 15, "nodeName": "X", "type": "Any"}]

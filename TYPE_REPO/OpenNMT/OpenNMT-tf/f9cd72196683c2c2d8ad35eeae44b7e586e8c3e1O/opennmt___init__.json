@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "__version__", "type": "str"}, {"lineNumber": 8, "col_offset": 3, "nodeName": "startswith", "type": "Any"}, {"lineNumber": 8, "col_offset": 3, "nodeName": "__version__", "type": "Any"}, {"lineNumber": 8, "col_offset": 3, "nodeName": "tf", "type": "Any"}]

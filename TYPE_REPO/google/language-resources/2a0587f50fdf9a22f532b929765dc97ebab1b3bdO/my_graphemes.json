@@ -1,0 +1,1 @@
+[{"lineNumber": 25, "col_offset": 0, "nodeName": "CODEPOINT_TO_SYMBOL", "type": "Dict[int, str]"}, {"lineNumber": 122, "col_offset": 0, "nodeName": "TOKEN_RE", "type": "Pattern[str]"}, {"lineNumber": 122, "col_offset": 11, "nodeName": "compile", "type": "Callable"}, {"lineNumber": 122, "col_offset": 11, "nodeName": "re", "type": "module"}]

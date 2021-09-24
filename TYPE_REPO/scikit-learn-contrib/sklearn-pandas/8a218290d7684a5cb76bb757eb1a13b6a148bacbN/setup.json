@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "setup", "type": "Any"}, {"lineNumber": 8, "col_offset": 14, "nodeName": "__version__", "type": "str"}, {"lineNumber": 8, "col_offset": 14, "nodeName": "sklearn_pandas", "type": "module"}]

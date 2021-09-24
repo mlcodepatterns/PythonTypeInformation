@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "test_get_encoding", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 11, "nodeName": "get_encoding", "type": "Callable[[str], str]"}]

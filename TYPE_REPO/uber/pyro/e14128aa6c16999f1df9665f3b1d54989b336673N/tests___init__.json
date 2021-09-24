@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "basicConfig", "type": "Callable[..., None]"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "logging", "type": "module"}, {"lineNumber": 6, "col_offset": 67, "nodeName": "DEBUG", "type": "int"}, {"lineNumber": 6, "col_offset": 67, "nodeName": "logging", "type": "module"}]

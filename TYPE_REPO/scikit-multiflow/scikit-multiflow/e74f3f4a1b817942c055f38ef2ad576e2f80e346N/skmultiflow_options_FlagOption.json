@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "__author__", "type": "str"}, {"lineNumber": 5, "col_offset": 17, "nodeName": "BaseOption", "type": "Type[skmultiflow.options.BaseOption.BaseOption]"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "__init__", "type": "Callable[..., None]"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "super", "type": "Type[super]"}]

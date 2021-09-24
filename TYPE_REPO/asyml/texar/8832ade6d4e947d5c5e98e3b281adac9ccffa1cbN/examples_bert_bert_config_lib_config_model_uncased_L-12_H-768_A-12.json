@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "vocab_size", "type": "int"}, {"lineNumber": 11, "col_offset": 0, "nodeName": "type_vocab_size", "type": "int"}, {"lineNumber": 17, "col_offset": 0, "nodeName": "position_size", "type": "int"}, {"lineNumber": 56, "col_offset": 0, "nodeName": "output_size", "type": "int"}]

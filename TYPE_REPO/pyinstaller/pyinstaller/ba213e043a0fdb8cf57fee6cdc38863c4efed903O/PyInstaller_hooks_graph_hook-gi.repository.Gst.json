@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "hook", "type": "Callable[[Any], Any]"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "add_module", "type": "Any"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "module_graph", "type": "Any"}, {"lineNumber": 5, "col_offset": 28, "nodeName": "RuntimeModule", "type": "Type[PyInstaller.lib.modulegraph.modulegraph.RuntimeModule]"}]

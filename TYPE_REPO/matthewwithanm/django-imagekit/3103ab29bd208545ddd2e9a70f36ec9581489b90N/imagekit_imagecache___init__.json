@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "get_default_image_cache_backend", "type": "Callable[[], Any]"}, {"lineNumber": 11, "col_offset": 11, "nodeName": "get_singleton", "type": "Any"}, {"lineNumber": 11, "col_offset": 25, "nodeName": "IMAGEKIT_DEFAULT_IMAGE_CACHE_BACKEND", "type": "Any"}, {"lineNumber": 11, "col_offset": 25, "nodeName": "settings", "type": "Any"}]

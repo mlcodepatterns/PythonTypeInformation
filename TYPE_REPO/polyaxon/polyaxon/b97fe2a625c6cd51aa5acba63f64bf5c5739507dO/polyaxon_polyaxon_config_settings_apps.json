@@ -1,0 +1,1 @@
+[{"lineNumber": 23, "col_offset": 0, "nodeName": "INSTALLED_APPS", "type": "Tuple[str, ...]"}, {"lineNumber": 23, "col_offset": 18, "nodeName": "THIRD_PARTY_APPS", "type": "Tuple[str, str, str]"}, {"lineNumber": 23, "col_offset": 37, "nodeName": "DEFAULT_APPS", "type": "Tuple[str, str]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 17, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 13, "col_offset": 8, "nodeName": "model", "type": "None"}, {"lineNumber": 13, "col_offset": 8, "nodeName": "self", "type": "Pretrained"}]

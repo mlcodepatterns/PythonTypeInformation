@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "ggplot", "type": "Type[ggplot.ggplot.ggplot]"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "stat_smooth", "type": "Any"}, {"lineNumber": 4, "col_offset": 7, "nodeName": "aes", "type": "Any"}, {"lineNumber": 4, "col_offset": 37, "nodeName": "meat", "type": "Any"}]

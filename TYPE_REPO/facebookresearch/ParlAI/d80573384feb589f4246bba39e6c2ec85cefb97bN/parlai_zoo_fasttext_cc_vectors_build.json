@@ -1,0 +1,1 @@
+[{"lineNumber": 13, "col_offset": 0, "nodeName": "download", "type": "Callable[[Any], Any]"}, {"lineNumber": 14, "col_offset": 4, "nodeName": "Vectors", "type": "Any"}, {"lineNumber": 14, "col_offset": 4, "nodeName": "vocab", "type": "Any"}, {"lineNumber": 17, "col_offset": 14, "nodeName": "datapath", "type": "Any"}]

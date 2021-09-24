@@ -1,1 +1,0 @@
-[{"lineNumber": 3, "col_offset": 0, "nodeName": "IS_VERTICAL", "type": "bool"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "CODE2CID", "type": "Dict[int, Union[int, Dict[int, int]]]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "date_format", "type": "Callable[..., Any]"}, {"lineNumber": 14, "col_offset": 11, "nodeName": "DateFormatter", "type": "Any"}, {"lineNumber": 14, "col_offset": 25, "nodeName": "format", "type": "Any"}]

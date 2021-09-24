@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "get_one_exchange_neighbourhood", "type": "functools.partial[nothing]"}, {"lineNumber": 8, "col_offset": 33, "nodeName": "partial", "type": "Type[functools.partial[Any]]"}, {"lineNumber": 8, "col_offset": 41, "nodeName": "get_one_exchange_neighbourhood", "type": "Any"}]

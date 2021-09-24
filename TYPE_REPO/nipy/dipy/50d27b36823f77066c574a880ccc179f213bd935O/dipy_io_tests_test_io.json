@@ -1,0 +1,1 @@
+[{"lineNumber": 9, "col_offset": 0, "nodeName": "test_imports", "type": "Callable[[], Any]"}, {"lineNumber": 11, "col_offset": 4, "nodeName": "assert_false", "type": "Any"}, {"lineNumber": 11, "col_offset": 17, "nodeName": "hasattr", "type": "Callable[[Any, str], bool]"}, {"lineNumber": 11, "col_offset": 25, "nodeName": "io", "type": "module"}]

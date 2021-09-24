@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 8, "nodeName": "_monitor", "type": "List[nothing]"}, {"lineNumber": 4, "col_offset": 8, "nodeName": "_0", "type": "Any"}, {"lineNumber": 3, "col_offset": 8, "nodeName": "self", "type": "QA_Trade_Status_Monitor"}, {"lineNumber": 4, "col_offset": 8, "nodeName": "self", "type": "QA_Trade_Status_Monitor"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 21, "col_offset": 0, "nodeName": "register_rule", "type": "Any"}, {"lineNumber": 21, "col_offset": 40, "nodeName": "ReadODPSTableHeadRule", "type": "Any"}, {"lineNumber": 21, "col_offset": 0, "nodeName": "DataFrameRuntimeOptimizer", "type": "Any"}]

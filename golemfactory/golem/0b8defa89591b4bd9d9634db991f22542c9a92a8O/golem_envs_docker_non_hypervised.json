@@ -1,1 +1,0 @@
-[{"lineNumber": 5, "col_offset": 40, "nodeName": "DockerCPUEnvironment", "type": "Type[golem.envs.docker.cpu.DockerCPUEnvironment]"}, {"lineNumber": 14, "col_offset": 15, "nodeName": "DummyHypervisor", "type": "Type[golem.docker.hypervisor.dummy.DummyHypervisor]"}]

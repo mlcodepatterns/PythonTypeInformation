@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "redisvr", "type": "redis.client.Redis"}, {"lineNumber": 7, "col_offset": 10, "nodeName": "Redis", "type": "Type[redis.client.Redis]"}, {"lineNumber": 7, "col_offset": 10, "nodeName": "redis", "type": "module"}]

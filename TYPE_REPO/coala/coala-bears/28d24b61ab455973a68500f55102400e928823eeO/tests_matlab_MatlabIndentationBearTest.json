@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "MatlabIndentationBearTest", "type": "Any"}, {"lineNumber": 4, "col_offset": 28, "nodeName": "verify_local_bear", "type": "Any"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "MatlabIndentationBear", "type": "Type[bears.matlab.MatlabIndentationBear.MatlabIndentationBear]"}]

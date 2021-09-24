@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "HUB_NAME", "type": "str"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "ENTITY_REMOTE", "type": "str"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "ENTITY_WATCH_TV", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "ENTITY_PLAY_MUSIC", "type": "str"}]

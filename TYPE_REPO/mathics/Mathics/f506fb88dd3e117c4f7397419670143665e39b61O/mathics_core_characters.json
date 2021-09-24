@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "letters", "type": "str"}, {"lineNumber": 17, "col_offset": 0, "nodeName": "letterlikes", "type": "str"}, {"lineNumber": 34, "col_offset": 0, "nodeName": "named_characters", "type": "Dict[str, str]"}, {"lineNumber": 1085, "col_offset": 0, "nodeName": "aliased_characters", "type": "Dict[str, str]"}]

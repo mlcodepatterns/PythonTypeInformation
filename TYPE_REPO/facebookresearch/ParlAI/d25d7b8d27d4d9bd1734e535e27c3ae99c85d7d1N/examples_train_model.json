@@ -1,0 +1,1 @@
+[{"lineNumber": 14, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 15, "col_offset": 4, "nodeName": "main", "type": "Callable[..., Any]"}, {"lineNumber": 15, "col_offset": 4, "nodeName": "TrainModel", "type": "Type[parlai.scripts.train_model.TrainModel]"}]

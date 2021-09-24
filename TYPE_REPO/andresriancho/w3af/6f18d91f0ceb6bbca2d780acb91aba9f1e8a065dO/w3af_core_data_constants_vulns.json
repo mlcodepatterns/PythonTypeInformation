@@ -1,0 +1,1 @@
+[{"lineNumber": 250, "col_offset": 0, "nodeName": "is_valid_name", "type": "Callable[[Any], Any]"}, {"lineNumber": 251, "col_offset": 11, "nodeName": "name", "type": "Any"}, {"lineNumber": 251, "col_offset": 19, "nodeName": "values", "type": "Callable"}, {"lineNumber": 251, "col_offset": 19, "nodeName": "VULNS", "type": "Dict[int, str]"}]

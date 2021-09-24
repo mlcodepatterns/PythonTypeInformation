@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "MEAN", "type": "List[float]"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "STD", "type": "List[float]"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "LAMBDA_DICT", "type": "Dict[str, float]"}]

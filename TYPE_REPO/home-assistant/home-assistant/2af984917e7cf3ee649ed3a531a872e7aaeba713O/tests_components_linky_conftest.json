@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "patch_fakeuseragent", "type": "Callable[[], Any]"}, {"lineNumber": 10, "col_offset": 9, "nodeName": "patch", "type": "Any"}]

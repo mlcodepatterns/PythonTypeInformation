@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "download", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "NerApi", "type": "Type[nlp_architect.api.ner_api.NerApi]"}]

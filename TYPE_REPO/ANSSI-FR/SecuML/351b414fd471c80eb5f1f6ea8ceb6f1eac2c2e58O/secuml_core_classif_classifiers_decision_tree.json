@@ -1,0 +1,1 @@
+[{"lineNumber": 23, "col_offset": 19, "nodeName": "SupervisedClassifier", "type": "Any"}, {"lineNumber": 26, "col_offset": 27, "nodeName": "StandardScaler", "type": "Any"}, {"lineNumber": 27, "col_offset": 26, "nodeName": "DecisionTreeClassifier", "type": "Any"}, {"lineNumber": 27, "col_offset": 26, "nodeName": "tree", "type": "Any"}]

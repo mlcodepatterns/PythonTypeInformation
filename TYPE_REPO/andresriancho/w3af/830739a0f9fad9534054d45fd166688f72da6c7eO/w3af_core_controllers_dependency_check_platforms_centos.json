@@ -1,0 +1,1 @@
+[{"lineNumber": 40, "col_offset": 0, "nodeName": "after_hook", "type": "Callable[[], Any]"}, {"lineNumber": 24, "col_offset": 0, "nodeName": "SYSTEM_NAME", "type": "str"}, {"lineNumber": 26, "col_offset": 0, "nodeName": "PKG_MANAGER_CMD", "type": "str"}, {"lineNumber": 37, "col_offset": 0, "nodeName": "PIP_CMD", "type": "str"}]

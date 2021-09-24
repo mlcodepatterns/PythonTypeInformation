@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "use_agg", "type": "bool"}, {"lineNumber": 3, "col_offset": 3, "nodeName": "use_agg", "type": "bool"}, {"lineNumber": 3, "col_offset": 12, "nodeName": "use", "type": "Any"}, {"lineNumber": 3, "col_offset": 12, "nodeName": "matplotlib", "type": "Any"}]

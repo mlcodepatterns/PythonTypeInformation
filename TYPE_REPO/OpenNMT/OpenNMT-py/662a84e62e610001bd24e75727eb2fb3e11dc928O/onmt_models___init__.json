@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "CAN_USE_SRU", "type": "bool"}, {"lineNumber": 6, "col_offset": 3, "nodeName": "CAN_USE_SRU", "type": "bool"}, {"lineNumber": 5, "col_offset": 14, "nodeName": "check_sru_requirement", "type": "Callable[..., bool]"}]

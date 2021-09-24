@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 10, "nodeName": "Document", "type": "Any"}, {"lineNumber": 4, "col_offset": 4, "nodeName": "name", "type": "Any"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "config", "type": "Any"}, {"lineNumber": 4, "col_offset": 11, "nodeName": "StringField", "type": "Any"}, {"lineNumber": 5, "col_offset": 13, "nodeName": "DictField", "type": "Any"}]

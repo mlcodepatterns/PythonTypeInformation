@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 8, "nodeName": "assets", "type": "int"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "strategy", "type": "List[nothing]"}, {"lineNumber": 7, "col_offset": 8, "nodeName": "self", "type": "account"}, {"lineNumber": 8, "col_offset": 8, "nodeName": "self", "type": "account"}]

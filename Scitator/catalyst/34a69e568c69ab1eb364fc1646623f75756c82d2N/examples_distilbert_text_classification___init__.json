@@ -1,1 +1,0 @@
-[{"lineNumber": 10, "col_offset": 0, "nodeName": "Model", "type": "Callable[..., Callable[..., Any]]"}, {"lineNumber": 10, "col_offset": 15, "nodeName": "BertClassifier", "type": "Type[catalyst.contrib.models.nlp.classification.bert.BertClassifier]"}, {"lineNumber": 10, "col_offset": 0, "nodeName": "registry", "type": "module"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "home", "type": "str"}, {"lineNumber": 3, "col_offset": 5, "nodeName": "expanduser", "type": "Callable"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "setup", "type": "Any"}, {"lineNumber": 3, "col_offset": 5, "nodeName": "path", "type": "module"}, {"lineNumber": 3, "col_offset": 5, "nodeName": "os", "type": "module"}]

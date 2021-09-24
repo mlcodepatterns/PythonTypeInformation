@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "DEF_VIS_DIM", "type": "Tuple[int, int]"}, {"lineNumber": 8, "col_offset": 0, "nodeName": "DEF_ELL_NP", "type": "int"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "DEF_LEVEL", "type": "float"}, {"lineNumber": 18, "col_offset": 0, "nodeName": "_MAX_DBL_DEV", "type": "float"}]

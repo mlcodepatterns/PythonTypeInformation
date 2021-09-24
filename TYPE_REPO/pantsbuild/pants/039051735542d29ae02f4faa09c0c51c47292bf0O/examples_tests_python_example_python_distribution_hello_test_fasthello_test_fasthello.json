@@ -1,0 +1,1 @@
+[{"lineNumber": 13, "col_offset": 0, "nodeName": "test_fasthello", "type": "Callable[[], Any]"}, {"lineNumber": 14, "col_offset": 9, "nodeName": "hello", "type": "Any"}, {"lineNumber": 14, "col_offset": 26, "nodeName": "join", "type": "Callable"}, {"lineNumber": 14, "col_offset": 9, "nodeName": "hello", "type": "Any"}]

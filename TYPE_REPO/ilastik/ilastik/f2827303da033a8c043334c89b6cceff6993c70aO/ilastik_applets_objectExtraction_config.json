@@ -1,0 +1,1 @@
+[{"lineNumber": 2, "col_offset": 0, "nodeName": "compress_labels", "type": "bool"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "other_features", "type": "List[nothing]"}, {"lineNumber": 28, "col_offset": 0, "nodeName": "selected_features", "type": "List[nothing]"}, {"lineNumber": 30, "col_offset": 0, "nodeName": "num_max_objects", "type": "int"}]

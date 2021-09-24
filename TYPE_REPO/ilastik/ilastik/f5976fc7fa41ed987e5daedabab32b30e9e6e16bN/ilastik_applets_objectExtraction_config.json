@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "compress_labels", "type": "bool"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "vigra_features", "type": "List[str]"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "other_features", "type": "List[nothing]"}]

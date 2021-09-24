@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 21, "nodeName": "object", "type": "Type[object]"}, {"lineNumber": 20, "col_offset": 4, "nodeName": "SYSTEM_STARTUP", "type": "str"}, {"lineNumber": 21, "col_offset": 4, "nodeName": "SYSTEM_SHUTDOWN", "type": "str"}, {"lineNumber": 22, "col_offset": 4, "nodeName": "CONVERSATION_START", "type": "str"}]

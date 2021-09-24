@@ -1,0 +1,1 @@
+[{"lineNumber": 2, "col_offset": 0, "nodeName": "CONF_PACKET", "type": "str"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "DOMAIN", "type": "str"}, {"lineNumber": 6, "col_offset": 0, "nodeName": "SERVICE_LEARN", "type": "str"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "SERVICE_SEND", "type": "str"}]

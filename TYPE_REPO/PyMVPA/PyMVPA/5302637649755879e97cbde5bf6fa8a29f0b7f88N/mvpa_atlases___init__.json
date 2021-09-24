@@ -1,0 +1,1 @@
+[{"lineNumber": 23, "col_offset": 0, "nodeName": "__docformat__", "type": "str"}, {"lineNumber": 28, "col_offset": 4, "nodeName": "debug", "type": "mvpa.base.__Singleton"}, {"lineNumber": 35, "col_offset": 4, "nodeName": "debug", "type": "mvpa.base.__Singleton"}]

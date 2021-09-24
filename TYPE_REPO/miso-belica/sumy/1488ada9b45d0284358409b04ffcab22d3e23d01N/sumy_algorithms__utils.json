@@ -1,0 +1,1 @@
+[{"lineNumber": 9, "col_offset": 0, "nodeName": "null_stemmer", "type": "Callable[[Any], Any]"}, {"lineNumber": 9, "col_offset": 25, "nodeName": "lower", "type": "Any"}, {"lineNumber": 9, "col_offset": 25, "nodeName": "to_unicode", "type": "Any"}, {"lineNumber": 9, "col_offset": 36, "nodeName": "o", "type": "Any"}]

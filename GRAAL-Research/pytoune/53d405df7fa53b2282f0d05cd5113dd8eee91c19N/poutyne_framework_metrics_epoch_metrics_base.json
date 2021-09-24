@@ -1,1 +1,0 @@
-[{"lineNumber": 6, "col_offset": 18, "nodeName": "ABC", "type": "Type[abc.ABC]"}, {"lineNumber": 6, "col_offset": 23, "nodeName": "Module", "type": "Any"}, {"lineNumber": 6, "col_offset": 23, "nodeName": "nn", "type": "Any"}]

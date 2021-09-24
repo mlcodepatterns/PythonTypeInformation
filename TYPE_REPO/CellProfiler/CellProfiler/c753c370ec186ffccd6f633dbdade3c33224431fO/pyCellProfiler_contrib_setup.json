@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "setup", "type": "Callable[..., None]"}, {"lineNumber": 7, "col_offset": 29, "nodeName": "build_ext", "type": "Any"}, {"lineNumber": 8, "col_offset": 19, "nodeName": "Extension", "type": "Type[distutils.extension.Extension]"}, {"lineNumber": 8, "col_offset": 74, "nodeName": "get_include", "type": "Any"}]

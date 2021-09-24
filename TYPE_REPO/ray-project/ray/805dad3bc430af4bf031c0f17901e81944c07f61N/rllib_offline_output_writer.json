@@ -1,0 +1,1 @@
+[{"lineNumber": 20, "col_offset": 17, "nodeName": "OutputWriter", "type": "Any"}, {"lineNumber": 17, "col_offset": 14, "nodeName": "NotImplementedError", "type": "Type[NotImplementedError]"}, {"lineNumber": 11, "col_offset": 34, "nodeName": "SampleBatchType", "type": "Any"}, {"lineNumber": 24, "col_offset": 34, "nodeName": "SampleBatchType", "type": "Any"}]

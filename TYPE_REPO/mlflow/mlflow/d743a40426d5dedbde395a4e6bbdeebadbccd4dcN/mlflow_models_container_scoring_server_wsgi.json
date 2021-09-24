@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "app", "type": "Any"}, {"lineNumber": 4, "col_offset": 6, "nodeName": "init", "type": "Any"}, {"lineNumber": 4, "col_offset": 6, "nodeName": "scoring_server", "type": "module"}, {"lineNumber": 4, "col_offset": 26, "nodeName": "load_pyfunc", "type": "Any"}, {"lineNumber": 4, "col_offset": 26, "nodeName": "pyfunc", "type": "module"}]

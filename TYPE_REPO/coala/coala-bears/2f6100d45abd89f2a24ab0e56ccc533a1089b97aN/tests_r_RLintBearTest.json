@@ -1,0 +1,1 @@
+[{"lineNumber": 22, "col_offset": 16, "nodeName": "verify_local_bear", "type": "Any"}, {"lineNumber": 22, "col_offset": 34, "nodeName": "RLintBear", "type": "Type[bears.r.RLintBear.RLintBear]"}, {"lineNumber": 23, "col_offset": 49, "nodeName": "bad_file", "type": "str"}, {"lineNumber": 24, "col_offset": 47, "nodeName": "good_file", "type": "str"}]

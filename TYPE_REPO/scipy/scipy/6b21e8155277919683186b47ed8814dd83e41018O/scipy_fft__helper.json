@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "next_fast_len", "type": "Callable[..., Any]"}, {"lineNumber": 53, "col_offset": 11, "nodeName": "next_fast_len", "type": "Callable[[Any], Union[float, int]]"}, {"lineNumber": 53, "col_offset": 34, "nodeName": "target", "type": "Any"}, {"lineNumber": 53, "col_offset": 11, "nodeName": "_fftpack", "type": "module"}]

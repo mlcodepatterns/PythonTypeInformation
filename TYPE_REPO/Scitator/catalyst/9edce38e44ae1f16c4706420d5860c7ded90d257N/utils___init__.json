@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "Factory", "type": "Union[Type[Type[Any]], Type[Callable[..., Any]]]"}, {"lineNumber": 3, "col_offset": 10, "nodeName": "Union", "type": "Any"}, {"lineNumber": 3, "col_offset": 16, "nodeName": "Type", "type": "Any"}, {"lineNumber": 3, "col_offset": 22, "nodeName": "Callable", "type": "Any"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 17, "col_offset": 0, "nodeName": "__author__", "type": "str"}, {"lineNumber": 19, "col_offset": 0, "nodeName": "request", "type": "dino.wio.validation.request.RequestValidatorWio"}, {"lineNumber": 19, "col_offset": 10, "nodeName": "RequestValidatorWio", "type": "Type[dino.wio.validation.request.RequestValidatorWio]"}]

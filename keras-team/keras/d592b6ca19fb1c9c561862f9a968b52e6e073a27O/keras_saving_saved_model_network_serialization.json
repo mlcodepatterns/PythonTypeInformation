@@ -1,1 +1,0 @@
-[{"lineNumber": 25, "col_offset": 29, "nodeName": "ModelSavedModelSaver", "type": "Type[keras.saving.saved_model.model_serialization.ModelSavedModelSaver]"}, {"lineNumber": 25, "col_offset": 29, "nodeName": "model_serialization", "type": "module"}]

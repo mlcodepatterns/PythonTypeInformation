@@ -1,0 +1,1 @@
+[{"lineNumber": 10, "col_offset": 0, "nodeName": "raise_isinstance_error", "type": "Callable[[Any, Any, Any], Any]"}, {"lineNumber": 11, "col_offset": 10, "nodeName": "ValueError", "type": "Type[ValueError]"}]

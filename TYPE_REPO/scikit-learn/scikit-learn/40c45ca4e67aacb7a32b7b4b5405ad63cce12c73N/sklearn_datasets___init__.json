@@ -1,0 +1,1 @@
+[{"lineNumber": 51, "col_offset": 0, "nodeName": "load_filenames", "type": "Callable[..., Any]"}, {"lineNumber": 55, "col_offset": 11, "nodeName": "load_files", "type": "Any"}, {"lineNumber": 55, "col_offset": 23, "nodeName": "args", "type": "Tuple[Any, ...]"}, {"lineNumber": 55, "col_offset": 31, "nodeName": "kwargs", "type": "Dict[str, Any]"}]

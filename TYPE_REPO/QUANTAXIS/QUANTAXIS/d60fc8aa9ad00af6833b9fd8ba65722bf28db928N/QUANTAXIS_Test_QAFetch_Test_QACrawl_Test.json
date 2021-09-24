@@ -1,0 +1,1 @@
+[{"lineNumber": 12, "col_offset": 19, "nodeName": "TestCase", "type": "Type[unittest.case.TestCase]"}, {"lineNumber": 12, "col_offset": 19, "nodeName": "unittest", "type": "module"}, {"lineNumber": 23, "col_offset": 8, "nodeName": "QA_request_eastmoney_zjlx", "type": "Callable[[Any], None]"}, {"lineNumber": 23, "col_offset": 34, "nodeName": "listStock", "type": "List[str]"}]

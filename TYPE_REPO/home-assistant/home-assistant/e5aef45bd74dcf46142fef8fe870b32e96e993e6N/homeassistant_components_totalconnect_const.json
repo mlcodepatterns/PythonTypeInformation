@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "DOMAIN", "type": "str"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "CONF_USERCODES", "type": "str"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "CONF_LOCATION", "type": "str"}, {"lineNumber": 8, "col_offset": 0, "nodeName": "DEFAULT_USERCODE", "type": "str"}]

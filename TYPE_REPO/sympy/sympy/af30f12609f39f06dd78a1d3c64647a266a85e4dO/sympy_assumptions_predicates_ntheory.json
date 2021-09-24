@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 21, "nodeName": "Predicate", "type": "Any"}, {"lineNumber": 32, "col_offset": 4, "nodeName": "name", "type": "str"}, {"lineNumber": 33, "col_offset": 14, "nodeName": "Dispatcher", "type": "Type[sympy.multipledispatch.dispatcher.Dispatcher]"}]

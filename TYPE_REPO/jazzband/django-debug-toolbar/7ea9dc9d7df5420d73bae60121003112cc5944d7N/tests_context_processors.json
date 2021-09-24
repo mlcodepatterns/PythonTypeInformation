@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "broken", "type": "Callable[[Any], Any]"}, {"lineNumber": 2, "col_offset": 4, "nodeName": "non_existing_attribute", "type": "Any"}, {"lineNumber": 2, "col_offset": 4, "nodeName": "request", "type": "Any"}]

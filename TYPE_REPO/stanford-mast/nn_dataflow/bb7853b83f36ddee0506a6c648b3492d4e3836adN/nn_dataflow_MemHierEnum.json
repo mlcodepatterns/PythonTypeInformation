@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 0, "nodeName": "DRAM", "type": "int"}, {"lineNumber": 25, "col_offset": 0, "nodeName": "GBUF", "type": "int"}, {"lineNumber": 26, "col_offset": 0, "nodeName": "ITCN", "type": "int"}, {"lineNumber": 27, "col_offset": 0, "nodeName": "REGF", "type": "int"}, {"lineNumber": 28, "col_offset": 0, "nodeName": "NUM", "type": "int"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "sanitize_filename", "type": "Callable[[Any], Any]"}, {"lineNumber": 8, "col_offset": 11, "nodeName": "sub", "type": "Callable"}, {"lineNumber": 8, "col_offset": 42, "nodeName": "filename", "type": "Any"}, {"lineNumber": 8, "col_offset": 11, "nodeName": "re", "type": "module"}]

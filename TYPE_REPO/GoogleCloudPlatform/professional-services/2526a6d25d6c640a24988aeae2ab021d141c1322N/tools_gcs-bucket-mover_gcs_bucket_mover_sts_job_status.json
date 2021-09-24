@@ -1,0 +1,1 @@
+[{"lineNumber": 19, "col_offset": 19, "nodeName": "Enum", "type": "Type[enum.Enum]"}, {"lineNumber": 21, "col_offset": 4, "nodeName": "failed", "type": "int"}, {"lineNumber": 22, "col_offset": 4, "nodeName": "in_progress", "type": "int"}, {"lineNumber": 23, "col_offset": 4, "nodeName": "success", "type": "int"}]

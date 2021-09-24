@@ -1,0 +1,1 @@
+[{"lineNumber": 20, "col_offset": 0, "nodeName": "warn", "type": "Callable"}, {"lineNumber": 22, "col_offset": 42, "nodeName": "VisibleDeprecationWarning", "type": "Type[hyperspy.exceptions.VisibleDeprecationWarning]"}, {"lineNumber": 20, "col_offset": 0, "nodeName": "warnings", "type": "module"}]

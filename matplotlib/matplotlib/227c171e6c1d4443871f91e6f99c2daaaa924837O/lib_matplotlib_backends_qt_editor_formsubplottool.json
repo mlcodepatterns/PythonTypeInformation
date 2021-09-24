@@ -1,1 +1,0 @@
-[{"lineNumber": 8, "col_offset": 0, "nodeName": "__all__", "type": "List[str]"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "warn_deprecated", "type": "Any"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "cbook", "type": "Any"}, {"lineNumber": 6, "col_offset": 35, "nodeName": "__name__", "type": "str"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 7, "col_offset": 4, "nodeName": "adddir", "type": "Any"}, {"lineNumber": 7, "col_offset": 4, "nodeName": "cvs_tools", "type": "Any"}, {"lineNumber": 7, "col_offset": 21, "nodeName": "argv", "type": "List[str]"}, {"lineNumber": 7, "col_offset": 21, "nodeName": "sys", "type": "module"}]

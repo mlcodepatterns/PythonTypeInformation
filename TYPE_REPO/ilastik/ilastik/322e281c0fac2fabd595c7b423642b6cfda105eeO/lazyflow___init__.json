@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "verboseMemory", "type": "bool"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "verboseRequests", "type": "bool"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "verboseWrapping", "type": "bool"}]

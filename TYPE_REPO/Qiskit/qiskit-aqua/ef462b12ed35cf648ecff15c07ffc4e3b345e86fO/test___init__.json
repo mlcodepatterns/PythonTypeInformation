@@ -1,0 +1,1 @@
+[{"lineNumber": 23, "col_offset": 0, "nodeName": "_noop", "type": "Callable[..., Any]"}, {"lineNumber": 27, "col_offset": 0, "nodeName": "warn", "type": "Callable[..., Any]"}, {"lineNumber": 27, "col_offset": 16, "nodeName": "_noop", "type": "Callable[..., Any]"}, {"lineNumber": 27, "col_offset": 0, "nodeName": "warnings", "type": "module"}]

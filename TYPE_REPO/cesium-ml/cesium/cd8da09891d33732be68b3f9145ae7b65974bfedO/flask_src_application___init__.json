@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "app", "type": "Any"}, {"lineNumber": 8, "col_offset": 6, "nodeName": "Flask", "type": "Any"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "from_object", "type": "Any"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "config", "type": "Any"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "app", "type": "Any"}]

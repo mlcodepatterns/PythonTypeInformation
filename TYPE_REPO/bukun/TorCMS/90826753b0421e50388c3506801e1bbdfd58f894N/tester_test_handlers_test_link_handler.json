@@ -1,0 +1,1 @@
+[{"lineNumber": 10, "col_offset": 0, "nodeName": "test_ab", "type": "Callable[[], Any]"}, {"lineNumber": 14, "col_offset": 11, "nodeName": "LinkHandler", "type": "Type[torcms.handlers.link_handler.LinkHandler]"}]

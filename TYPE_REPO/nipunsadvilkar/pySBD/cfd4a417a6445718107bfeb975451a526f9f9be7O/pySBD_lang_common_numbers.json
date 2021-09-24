@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 13, "nodeName": "object", "type": "Type[object]"}, {"lineNumber": 7, "col_offset": 4, "nodeName": "SENTENCE_BOUNDARY_REGEX", "type": "str"}, {"lineNumber": 13, "col_offset": 4, "nodeName": "PARENS_BETWEEN_DOUBLE_QUOTES_REGEX", "type": "str"}, {"lineNumber": 26, "col_offset": 4, "nodeName": "NUMBERED_REFERENCE_REGEX", "type": "str"}]

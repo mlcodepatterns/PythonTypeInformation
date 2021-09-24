@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "item1", "type": "List[int]"}, {"lineNumber": 2, "col_offset": 0, "nodeName": "item2", "type": "Dict[str, int]"}, {"lineNumber": 3, "col_offset": 0, "nodeName": "item3", "type": "bool"}, {"lineNumber": 4, "col_offset": 0, "nodeName": "item4", "type": "str"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "is_connected", "type": "Callable[[], Any]"}, {"lineNumber": 6, "col_offset": 8, "nodeName": "create_connection", "type": "Callable[..., socket.socket]"}, {"lineNumber": 6, "col_offset": 8, "nodeName": "socket", "type": "module"}]

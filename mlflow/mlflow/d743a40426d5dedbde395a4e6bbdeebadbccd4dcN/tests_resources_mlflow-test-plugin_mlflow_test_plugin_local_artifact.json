@@ -1,1 +1,0 @@
-[{"lineNumber": 4, "col_offset": 36, "nodeName": "LocalArtifactRepository", "type": "Type[mlflow.store.artifact.local_artifact_repo.LocalArtifactRepository]"}, {"lineNumber": 7, "col_offset": 4, "nodeName": "is_plugin", "type": "bool"}]

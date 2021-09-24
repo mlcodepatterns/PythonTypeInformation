@@ -1,0 +1,1 @@
+[{"lineNumber": 6, "col_offset": 0, "nodeName": "USE_GROBID", "type": "bool"}, {"lineNumber": 7, "col_offset": 0, "nodeName": "GROBID_PATH", "type": "str"}, {"lineNumber": 8, "col_offset": 0, "nodeName": "GROBID_HOST", "type": "str"}, {"lineNumber": 9, "col_offset": 0, "nodeName": "TEMP_PDF", "type": "str"}]

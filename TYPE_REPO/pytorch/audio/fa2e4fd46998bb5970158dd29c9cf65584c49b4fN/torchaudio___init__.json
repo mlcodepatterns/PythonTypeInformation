@@ -1,0 +1,1 @@
+[{"lineNumber": 12, "col_offset": 0, "nodeName": "USE_SOUNDFILE_LEGACY_INTERFACE", "type": "None"}, {"lineNumber": 34, "col_offset": 7, "nodeName": "ImportError", "type": "Type[ImportError]"}, {"lineNumber": 46, "col_offset": 4, "nodeName": "_init_sox_effects", "type": "Any"}, {"lineNumber": 59, "col_offset": 4, "nodeName": "_shutdown_sox_effects", "type": "Any"}]

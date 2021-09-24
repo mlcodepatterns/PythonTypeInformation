@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "config", "type": "Callable[[Any], Any]"}, {"lineNumber": 24, "col_offset": 4, "nodeName": "currency_default", "type": "str"}, {"lineNumber": 24, "col_offset": 4, "nodeName": "fin", "type": "Any"}, {"lineNumber": 24, "col_offset": 4, "nodeName": "settings", "type": "Any"}]

@@ -1,1 +1,0 @@
-[{"lineNumber": 7, "col_offset": 3, "nodeName": "TYPE_CHECKING", "type": "bool"}, {"lineNumber": 12, "col_offset": 0, "nodeName": "__all__", "type": "List[str]"}, {"lineNumber": 7, "col_offset": 3, "nodeName": "typing", "type": "module"}]

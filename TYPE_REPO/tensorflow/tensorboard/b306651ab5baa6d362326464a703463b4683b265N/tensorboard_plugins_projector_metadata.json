@@ -1,0 +1,1 @@
+[{"lineNumber": 18, "col_offset": 0, "nodeName": "PLUGIN_NAME", "type": "str"}, {"lineNumber": 20, "col_offset": 0, "nodeName": "PLUGINS_DIR", "type": "str"}, {"lineNumber": 21, "col_offset": 0, "nodeName": "PLUGIN_ASSETS_NAME", "type": "str"}, {"lineNumber": 27, "col_offset": 0, "nodeName": "PROJECTOR_FILENAME", "type": "str"}]

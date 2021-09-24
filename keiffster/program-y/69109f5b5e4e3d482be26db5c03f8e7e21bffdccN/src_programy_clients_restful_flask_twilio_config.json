@@ -1,1 +1,0 @@
-[{"lineNumber": 20, "col_offset": 26, "nodeName": "RestConfiguration", "type": "Any"}, {"lineNumber": 23, "col_offset": 8, "nodeName": "__init__", "type": "Any"}, {"lineNumber": 23, "col_offset": 35, "nodeName": "self", "type": "TwilioConfiguration"}, {"lineNumber": 23, "col_offset": 8, "nodeName": "RestConfiguration", "type": "Any"}]

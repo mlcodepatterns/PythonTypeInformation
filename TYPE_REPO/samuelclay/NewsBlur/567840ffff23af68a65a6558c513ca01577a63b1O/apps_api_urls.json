@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "urlpatterns", "type": "Any"}, {"lineNumber": 4, "col_offset": 14, "nodeName": "patterns", "type": "Any"}, {"lineNumber": 5, "col_offset": 4, "nodeName": "url", "type": "Any"}, {"lineNumber": 5, "col_offset": 37, "nodeName": "add_site", "type": "Any"}, {"lineNumber": 5, "col_offset": 37, "nodeName": "views", "type": "module"}]

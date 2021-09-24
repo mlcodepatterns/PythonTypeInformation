@@ -1,0 +1,1 @@
+[{"lineNumber": 3, "col_offset": 0, "nodeName": "model", "type": "Type[opennmt.models.catalog.Transformer]"}, {"lineNumber": 3, "col_offset": 8, "nodeName": "Transformer", "type": "Type[opennmt.models.catalog.Transformer]"}]

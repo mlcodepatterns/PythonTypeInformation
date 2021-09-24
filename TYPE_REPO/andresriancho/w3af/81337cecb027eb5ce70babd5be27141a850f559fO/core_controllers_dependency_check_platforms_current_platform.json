@@ -1,0 +1,1 @@
+[{"lineNumber": 24, "col_offset": 3, "nodeName": "is_mac", "type": "Any"}, {"lineNumber": 30, "col_offset": 5, "nodeName": "is_openbsd", "type": "Any"}, {"lineNumber": 36, "col_offset": 5, "nodeName": "is_fedora", "type": "Any"}]

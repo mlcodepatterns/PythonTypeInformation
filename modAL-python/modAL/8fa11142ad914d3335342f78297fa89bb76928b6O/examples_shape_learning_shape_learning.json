@@ -1,1 +1,0 @@
-[{"lineNumber": 14, "col_offset": 0, "nodeName": "data", "type": "Any"}, {"lineNumber": 16, "col_offset": 0, "nodeName": "data", "type": "Any"}, {"lineNumber": 14, "col_offset": 7, "nodeName": "imread", "type": "Any"}, {"lineNumber": 16, "col_offset": 7, "nodeName": "reshape", "type": "Any"}, {"lineNumber": 16, "col_offset": 7, "nodeName": "data", "type": "Any"}]

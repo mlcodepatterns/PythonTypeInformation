@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "get_execution_time", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 6, "col_offset": 4, "nodeName": "execution_time", "type": "Any"}, {"lineNumber": 6, "col_offset": 26, "nodeName": "processing_time", "type": "Any"}, {"lineNumber": 6, "col_offset": 4, "nodeName": "self", "type": "Any"}]

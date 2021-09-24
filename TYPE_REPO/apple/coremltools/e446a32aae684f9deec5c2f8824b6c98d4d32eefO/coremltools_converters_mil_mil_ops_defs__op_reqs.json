@@ -1,0 +1,1 @@
+[{"lineNumber": 13, "col_offset": 0, "nodeName": "register_op", "type": "Callable[..., Callable[[Any], Any]]"}, {"lineNumber": 13, "col_offset": 14, "nodeName": "register_op", "type": "Callable[..., Callable[[Any], Any]]"}, {"lineNumber": 13, "col_offset": 14, "nodeName": "SSAOpRegistry", "type": "Type[coremltools.converters.mil.mil.ops.registry.SSAOpRegistry]"}]

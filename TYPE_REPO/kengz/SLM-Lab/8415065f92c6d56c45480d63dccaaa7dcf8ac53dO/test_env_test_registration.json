@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "test_get_env_path", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 57, "nodeName": "get_env_path", "type": "Callable[[Any], Any]"}]

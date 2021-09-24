@@ -1,0 +1,1 @@
+[{"lineNumber": 1, "col_offset": 0, "nodeName": "_jupyter_labextension_paths", "type": "Callable[[], Any]"}, {"lineNumber": 5, "col_offset": 0, "nodeName": "_jupyter_nbextension_paths", "type": "Callable[[], Any]"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 15, "col_offset": 0, "nodeName": "ALL_URLS", "type": "Set[Any]"}, {"lineNumber": 15, "col_offset": 11, "nodeName": "union", "type": "Callable[..., Set[Any]]"}, {"lineNumber": 15, "col_offset": 26, "nodeName": "OPT_URLS", "type": "Set[str]"}, {"lineNumber": 15, "col_offset": 11, "nodeName": "REQ_URLS", "type": "Set[str]"}]

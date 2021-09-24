@@ -1,0 +1,1 @@
+[{"lineNumber": 7, "col_offset": 0, "nodeName": "postags", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 10, "col_offset": 0, "nodeName": "lemmas", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 14, "col_offset": 0, "nodeName": "postags", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 23, "col_offset": 0, "nodeName": "timex_types", "type": "Callable[[], Any]"}]

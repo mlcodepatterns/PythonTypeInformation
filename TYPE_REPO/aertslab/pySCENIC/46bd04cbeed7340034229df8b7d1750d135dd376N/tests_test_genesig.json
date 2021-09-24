@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 0, "nodeName": "test_init", "type": "Callable[[], Any]"}, {"lineNumber": 10, "col_offset": 0, "nodeName": "test_union", "type": "Callable[[], Any]"}, {"lineNumber": 11, "col_offset": 4, "nodeName": "gs1", "type": "Any"}, {"lineNumber": 11, "col_offset": 10, "nodeName": "GeneSignature", "type": "Any"}]

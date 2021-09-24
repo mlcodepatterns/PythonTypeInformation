@@ -1,0 +1,1 @@
+[{"lineNumber": 10, "col_offset": 0, "nodeName": "test_phate", "type": "Callable[[], Any]"}, {"lineNumber": 14, "col_offset": 3, "nodeName": "__name__", "type": "str"}, {"lineNumber": 11, "col_offset": 4, "nodeName": "testmod", "type": "Callable[..., doctest.TestResults]"}, {"lineNumber": 11, "col_offset": 4, "nodeName": "doctest", "type": "module"}]

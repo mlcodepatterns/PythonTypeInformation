@@ -1,0 +1,1 @@
+[{"lineNumber": 5, "col_offset": 13, "nodeName": "TestCase", "type": "Type[unittest.case.TestCase]"}, {"lineNumber": 5, "col_offset": 13, "nodeName": "unittest", "type": "module"}, {"lineNumber": 7, "col_offset": 19, "nodeName": "V", "type": "Any"}, {"lineNumber": 7, "col_offset": 19, "nodeName": "conftest", "type": "Any"}]

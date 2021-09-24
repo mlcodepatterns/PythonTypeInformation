@@ -1,0 +1,1 @@
+[{"lineNumber": 8, "col_offset": 0, "nodeName": "idx_errors", "type": "List[Any]"}, {"lineNumber": 8, "col_offset": 13, "nodeName": "detect", "type": "Callable[[Any], List[Any]]"}, {"lineNumber": 9, "col_offset": 6, "nodeName": "idx_errors", "type": "List[Any]"}, {"lineNumber": 8, "col_offset": 13, "nodeName": "pycorrector", "type": "module"}]

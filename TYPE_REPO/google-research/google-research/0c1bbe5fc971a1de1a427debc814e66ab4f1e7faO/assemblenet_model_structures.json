@@ -1,0 +1,1 @@
+[{"lineNumber": 96, "col_offset": 0, "nodeName": "full_asnp_structure_weights", "type": "List[Union[List[nothing], List[List[float]]]]"}, {"lineNumber": 112, "col_offset": 0, "nodeName": "asnp_lite_structure_weights", "type": "List[Union[List[nothing], List[List[float]]]]"}]

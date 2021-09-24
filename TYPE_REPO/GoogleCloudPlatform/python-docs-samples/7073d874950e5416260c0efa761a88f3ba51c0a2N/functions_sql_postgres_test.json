@@ -1,0 +1,1 @@
+[{"lineNumber": 19, "col_offset": 0, "nodeName": "test_postgres", "type": "Callable[[], Any]"}, {"lineNumber": 21, "col_offset": 4, "nodeName": "postgres_demo", "type": "Any"}, {"lineNumber": 21, "col_offset": 4, "nodeName": "postgres_sample", "type": "Any"}]

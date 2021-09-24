@@ -1,0 +1,1 @@
+[{"lineNumber": 4, "col_offset": 0, "nodeName": "timedelta64_to_secs", "type": "Callable[[Any], Any]"}, {"lineNumber": 15, "col_offset": 11, "nodeName": "timedelta", "type": "Any"}, {"lineNumber": 15, "col_offset": 23, "nodeName": "timedelta64", "type": "Any"}, {"lineNumber": 15, "col_offset": 23, "nodeName": "np", "type": "module"}]

@@ -1,0 +1,1 @@
+[{"lineNumber": 26, "col_offset": 0, "nodeName": "_RiscAddGrad", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 33, "col_offset": 0, "nodeName": "_RiscConvGrad", "type": "Callable[[Any, Any], Any]"}, {"lineNumber": 40, "col_offset": 0, "nodeName": "_RiscMaxGrad", "type": "Callable[[Any, Any], Any]"}]
