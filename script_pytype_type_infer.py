@@ -15,8 +15,8 @@ import pytype
 from git import Repo
 import subprocess
 import shutil
-pytype_out_path = '/Users/malinda/Documents/Research_Topic_2/CPatMiner/AtomicASTChangeMining/pytype_output/.pytype/'
-PYTYPE_SAVE = '/Users/malinda/Documents/Research_Topic_2/TYPE_INFO/'
+pytype_out_path = 'folder to store files of PyType'
+PYTYPE_SAVE = 'folder to store type information'
 from pydriller import RepositoryMining as rp
 from pydriller import GitRepository
 from pydriller import ModificationType
