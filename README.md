@@ -20,7 +20,7 @@ The steps outlined below leads you through inferring project type information of
 * execute `source VENV/bin/activate` to activate the virtual environment 
 * execute `pip install -r requirements.txt`. requirements.txt is available in the root folder of this repository
 * execute `mkdir TYPE_REPO Pytypestorage GitHub`
-* execute `python3 testpytype.py ./Pytypestorage/ ./GitHub/ ./TYPE_REPO/ author/project_name https://github.com/author/project_name.git'
+* execute `python3 testpytype.py ./Pytypestorage/ ./GitHub/ ./TYPE_REPO/ author/project_name https://github.com/author/project_name.git`
   * > author/project_name is the GitHub full name of the project. e.g., maldil/MLEditsTest
   * > Inside the TYPE REPO folder, the new type information should be generated. To infer the results with new type information, update the folder TYPE_REPO of the tools [Py-RefactoringMiner](https://github.com/maldil/RefactoringMiner) and [R-CPATMiner](https://github.com/maldil/R-CPATMiner).
 
