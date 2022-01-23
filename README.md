@@ -21,9 +21,6 @@ The steps outlined below leads you through inferring project type information of
 * execute `pip install -r requirements.txt`. [requirements.txt](https://github.com/mlcodepatterns/PythonTypeInformation/blob/master/requirements.txt) is available in the root folder of this repository
 * execute `mkdir TYPE_REPO Pytypestorage GitHub`
 * execute `python3 script_pytype_type_infer.py ./Pytypestorage/ ./GitHub/ ./TYPE_REPO/ author/project_name https://github.com/author/project_name.git`
+  * > The script script_pytype_type_infer.py can be found [here](https://github.com/mlcodepatterns/PythonTypeInformation/blob/master/script_pytype_type_infer.py) ). There are five parameters to the script: 1) a directory for pytype's intermediate processing files, 2) a directory to store the GitRepos, 3) a directory to store type information, 4) GitHub full name of the project e.g., author/project_name, and 5) GitHub clone url e.g., https://github.com/author/project_name.git. 
   * > author/project_name is the GitHub full name of the project. e.g., maldil/MLEditsTest
-  * > Inside the TYPE REPO folder, the new type information should be generated. To infer the results with new type information, update the folder TYPE_REPO of the tools [Py-RefactoringMiner](https://github.com/maldil/RefactoringMiner) and [R-CPATMiner](https://github.com/maldil/R-CPATMiner).
-
-
-
-
+  * > The new type information will be generated in the TYPE_REPO folder. To infer the results with new type information, update the folder TYPE_REPO of the tools [Py-RefactoringMiner](https://github.com/maldil/RefactoringMiner) and [R-CPATMiner](https://github.com/maldil/R-CPATMiner).
