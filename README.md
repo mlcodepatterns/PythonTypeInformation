@@ -18,7 +18,7 @@ The steps outlined below leads you through inferring project type information of
 * 'cd' to the new folder
 * execute `python3.7 -m venv ./VENV` to create new virtual environment 
 * execute `source VENV/bin/activate` to activate the virtual environment 
-* execute `pip install -r requirements.txt`. requirements.txt is available in the root folder of this repository
+* execute `pip install -r requirements.txt`. [requirements.txt](https://github.com/mlcodepatterns/PythonTypeInformation/blob/master/requirements.txt) is available in the root folder of this repository
 * execute `mkdir TYPE_REPO Pytypestorage GitHub`
 * execute `python3 testpytype.py ./Pytypestorage/ ./GitHub/ ./TYPE_REPO/ author/project_name https://github.com/author/project_name.git`
   * > author/project_name is the GitHub full name of the project. e.g., maldil/MLEditsTest
