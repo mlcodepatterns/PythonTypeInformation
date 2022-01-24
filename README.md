@@ -12,7 +12,7 @@ TYPE_REPO is the root folder. The next two child folders are the GitHub user nam
 You can use the python script [script_pytype_type_infer.py](https://github.com/mlcodepatterns/PythonTypeInformation/blob/master/script_pytype_type_infer.py) to infer type information of other projects. 
 
 
-The steps outlined below leads you through inferring project type information of projects.
+The steps outlined below leads you through inferring type information of projects.
  
 * You may make a new folder to hold all of the data as well as a virtual Python environment.
 * `cd` to the new folder
