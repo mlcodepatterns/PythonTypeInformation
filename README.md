@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5919637.svg)](https://doi.org/10.5281/zenodo.5919637)
 # PythonTypeInformation
 The folder TYPE_REPO contains type information of commits of 1000 Python-ML projects. 
 
